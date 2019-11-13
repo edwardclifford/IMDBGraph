@@ -15,17 +15,29 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 	//create a hash map that holds a value and a node
 	private HashMap<Node, Integer> _graphDist; 
 
+	/**
+	 * finds the shortest path from one node to another
+	 * @param s is the starting node
+	 * @param t is the target node
+	 * @return returns a list of all the nodes that are in the shortest path
+	 */
 	public List<Node> findShortestPath (Node s, Node t) {
 		//finds if there is a path to the node
 		if (!bfs(s, t)) {
 			return null;
 		}
 
+		//only call searchBackward if there is a path
 		return searchBackward(s, t);
 	}
 
 
-
+	/**
+	 * Uses Breath First Search to search through the graph for a path to the target node
+	 * @param s is the starting node
+	 * @param t is the target node
+	 * @return true is a path was found, false if no path was found
+	 */
 	private boolean bfs(Node s, Node t) {
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
@@ -68,12 +80,19 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		return finalFound;
 	}
 	
+	/**
+	 * Searches backwards from the target node to the start node
+	 *   to find the shortest path from one node to another
+	 * @param s is the starting node
+	 * @param t is the target node
+	 * @return returns a list of all the nodes that are in the shortest path
+	 */
 	private List<Node> searchBackward(Node s, Node t) {
 		// TODO Auto-generated method stub
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
 		
-		//Shortest pat
+		//Shortest path list
 		LinkedList<Node> finalPath = new LinkedList<Node>();
 		
 		//adding target node to queue and setting value to 0
@@ -89,9 +108,9 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 			//creating an iterator to look through the nodes
 			Iterator<? extends Node> i = temp.getNeighbors().iterator();
 			while (i.hasNext()) {
-
 				//dequeue
 				Node neighborNode = i.next();
+				
 				if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
 					
 					finalPath.add(neighborNode);
@@ -102,13 +121,12 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 					if(neighborNode.equals(s)) {
 						return finalPath;
 					}
+					break;
 				}
 			}			
 		}
 		//if the final node path is not found
-		return null;
-		
-		
+		return null;	
 	}
 }
 	
