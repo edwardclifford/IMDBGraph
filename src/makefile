@@ -30,10 +30,8 @@ run: classes
 gfx: classes 
 	$(JVM) $(GFX)
 
-
 test: classes 
 	$(JVM) org.junit.runner.JUnitCore $(TEST) 
-
 
 clean:
 	$(RM) *.class
