@@ -19,6 +19,9 @@
 *.tar.gz
 *.rar
 
+# IMDB list #
+*.list
+
 # Eclipse files #
 .classpath
 .project
