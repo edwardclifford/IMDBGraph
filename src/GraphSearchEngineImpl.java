@@ -1,7 +1,7 @@
 import java.util.HashMap;
-
-import LRUCache.Element;
-
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
 /*
  * Marie Tessier and Edward Clifford 
  * 
@@ -10,11 +10,12 @@ import LRUCache.Element;
  */
 
 public class GraphSearchEngineImpl implements GraphSearchEngine {
-	
-	//creat a hash map that holds a value and a node
-	private HashMap<int, Node> _graphDist; 
+
+	//create a hash map that holds a value and a node
+	private HashMap<Integer, Node> _graphDist; 
 	
 	public List<Node> findShortestPath (Node s, Node t) {
+		return null;
 		
 	}
 	
@@ -23,7 +24,7 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		LinkedList<Node> queue = new LinkedList<Node>();
 		
 		//counter for values
-		value = 0;
+		int value = 0;
 		
 		//adding initial node to queue and setting value to 0
 		queue.add(s);
@@ -33,11 +34,11 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		while (queue.size() != 0) {
 			
 			//dequeue node
-			temp = queue.poll();
-			
-			//creating an itorator to look through the nodes
-			Itorator<Node> i = temp.getNeighbors.listItorator();
-			
+			Node temp = queue.poll();
+						
+			//creating an iterator to look through the nodes
+			Iterator<? extends Node> i = temp.getNeighbors().iterator();
+					
 			
 			
 		}
