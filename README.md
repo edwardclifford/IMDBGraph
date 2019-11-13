@@ -1,4 +1,5 @@
-# imdbgraph
+# IMDBGraph
+Ted Clifford and Marie Tessier
 
 <h1>Introduction</h1>
 In this project you will develop software instructure to model large <b>graphs</b> along with a search
