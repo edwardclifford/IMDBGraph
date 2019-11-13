@@ -10,11 +10,16 @@ JVM = java
 CLASSES = \
 		  GraphPartialTester.java \
 		  GraphSearchEngine.java \
+		  GraphSearchEngineImpl.java \
 		  GraphSearchGUI.java \
 		  IMDBGraph.java \
+		  IMDBGraphImpl.java \
 		  Node.java \
+		  ActorNode.java \
+		  MovieNode.java \
 
-MAIN = IMDBGraph 
+
+MAIN = IMDBGraphImpl 
 
 GFX = GraphSearchGUI 
 

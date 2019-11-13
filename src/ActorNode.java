@@ -1,10 +1,11 @@
-import java.util.HashSet;
+import java.util.*;
 
 public class ActorNode implements Node {
+    public String _name;
+    public Collection<MovieNode> _neighbors = new HashSet<MovieNode>();
 
     public ActorNode (String name) {
-        public String _name = name;
-        public Collection<MovieNode> _neighbors = new HashSet<MovieNode>;
+        String _name = name;
     }
 
     public String getName () {
@@ -21,7 +22,8 @@ public class ActorNode implements Node {
         return _name == other._name && _neighbors.equals(other._neighbors);
     }
 
-    @Override int hashCode () {
+    @Override 
+    public int hashCode () {
         final String hashString = "" + _name.hashCode() + _neighbors.hashCode();
         return hashString.hashCode();
     }
