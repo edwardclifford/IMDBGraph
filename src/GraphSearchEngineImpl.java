@@ -20,9 +20,8 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		if (!bfs(s, t)) {
 			return null;
 		}
-		searchBackward(s, t);
-		
-		return null;
+
+		return searchBackward(s, t);
 	}
 
 
@@ -74,19 +73,18 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
 		
-		//Shortest path from start to finish
+		//Shortest pat
 		LinkedList<Node> finalPath = new LinkedList<Node>();
 		
-		//counter for values
-		int value = 0;
+		//adding target node to queue and setting value to 0
+		queue.add(t);
 		
-		//adding initial node to queue and setting value to 0
-		queue.add(s);
 		//iterate through the queue
 		while (queue.size() != 0) {
 
 			//dequeue node
 			Node temp = queue.poll();
+			finalPath.add(temp);
 
 			//creating an iterator to look through the nodes
 			Iterator<? extends Node> i = temp.getNeighbors().iterator();
@@ -94,20 +92,20 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 
 				//dequeue
 				Node neighborNode = i.next();
-				if(_graphDist.get(temp) < _graphDist.get(neighborNode)) {
-					//set value to count
-					_graphDist.put(neighborNode, _graphDist.get(temp) + 1);
-
+				if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
+					
+					finalPath.add(neighborNode);
+					
 					queue.add(neighborNode);	
 
 					//if the final node is found
-					if(neighborNode.equals(t)) {
-						return null;
+					if(neighborNode.equals(s)) {
+						return finalPath;
 					}
-				}		
+				}
 			}			
 		}
-		//if the final node is not found
+		//if the final node path is not found
 		return null;
 		
 		
