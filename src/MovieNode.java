@@ -16,6 +16,7 @@ public class MovieNode implements Node {
         return _neighbors;
     }
 
+    /*
     @Override
     public boolean equals (Object o) {
         final ActorNode other = (ActorNode) o;
@@ -24,7 +25,9 @@ public class MovieNode implements Node {
 
     @Override 
     public int hashCode () {
-        final String hashString = "" + _name.hashCode() + _neighbors.hashCode();
-        return hashString.hashCode();
+        //final String hashString = "" + _name.hashCode() + _neighbors.hashCode();
+        //return hashString.hashCode();
+        return _name.hashCode();
     }
+    */
 }
