@@ -9,8 +9,6 @@ public class IMDBGraphImpl implements IMDBGraph{
     private Collection<MovieNode> _movieSet = new HashSet<MovieNode>();
     private Collection<ActorNode> _actorSet = new HashSet<ActorNode>();
 
-    public int counter = 0;
-
     public IMDBGraphImpl (String actorPath, String actressPath) throws IOException {
         
         File actorList = new File(actorPath);
@@ -18,16 +16,23 @@ public class IMDBGraphImpl implements IMDBGraph{
 
         try {
             buildNodes(actorList);
-            buildNodes(actressList);
+            //buildNodes(actressList);
         }
         catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 
         //Update sets to include both actresses and actors
-        _movieSet = new HashSet<MovieNode>(_movieMap.values());
-        _actorSet = new HashSet<ActorNode>(_actorMap.values());
-
+        //_movieSet = new HashSet<MovieNode>(_movieMap.values());
+        //_actorSet = new HashSet<ActorNode>(_actorMap.values());
+        for (MovieNode movie : _movieMap.values()) {
+            System.out.println(movie._name);
+            _movieSet.add(movie);
+        }
+        for (ActorNode actor : _actorMap.values()) {
+            System.out.println(actor._name);
+            _actorSet.add(actor);
+        }
     }
 
     private void buildNodes (File list) throws FileNotFoundException {
@@ -43,6 +48,7 @@ public class IMDBGraphImpl implements IMDBGraph{
             }
         }
 
+        System.out.println("Reading database...");
         scanner.useDelimiter("\t");
         String actorName;
         String entry; 
@@ -50,7 +56,7 @@ public class IMDBGraphImpl implements IMDBGraph{
         //Loop through each actor
         while (scanner.hasNextLine()) {
             actorName = scanner.next();
-            List<String> titleList = new ArrayList<String>();
+            List<String> titleList = new LinkedList<String>();
             
             while (true) {
                 //Check that file continues
@@ -66,7 +72,7 @@ public class IMDBGraphImpl implements IMDBGraph{
                     break;
                 }
 
-                String title = entry.substring(0, entry.indexOf(")") + 1);
+                String title = entry.substring(0, entry.indexOf(")", entry.indexOf("(" + 4)) + 1);
                 title = title.trim();
 
                 //Only add video movies to list
@@ -77,7 +83,6 @@ public class IMDBGraphImpl implements IMDBGraph{
             
             if (titleList.size() > 0) {
                 _actorMap.put(actorName, new ActorNode(actorName)); 
-                System.out.println(++counter);
             } 
 
             //Build graph nodes for each actor/movie
@@ -94,6 +99,8 @@ public class IMDBGraphImpl implements IMDBGraph{
                 _movieMap.get(movie)._neighbors.add(_actorMap.get(actorName));
             }
         }
+
+        System.out.println("Data read.");
     }
 
 	public Collection<? extends Node> getActors () {
@@ -115,9 +122,9 @@ public class IMDBGraphImpl implements IMDBGraph{
     public static void main (String[] args) {
         try {
             //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actors_test.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actresses_test.list");
-            //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses.list");
+            IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses.list");
             //Testing with 10,000 lines files
-            IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors_first_10000_lines.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses_first_10000_lines.list");
+            //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors_first_10000_lines.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses_first_10000_lines.list");
         }
         catch (IOException e) {
             e.printStackTrace();
