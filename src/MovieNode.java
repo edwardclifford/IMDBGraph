@@ -16,10 +16,9 @@ public class MovieNode implements Node {
         return _neighbors;
     }
 
-    
     @Override
     public boolean equals (Object o) {
-        final ActorNode other = (ActorNode) o;
+        final MovieNode other = (MovieNode) o;
         return _name == other._name && _neighbors.equals(other._neighbors);
     }
 

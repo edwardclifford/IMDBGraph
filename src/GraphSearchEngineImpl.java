@@ -22,15 +22,18 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 	 * @return returns a list of all the nodes that are in the shortest path
 	 */
 	public List<Node> findShortestPath (Node s, Node t) {
+
 		//finds if there is a path to the node
-		if (!bfs(s, t)) {
+        System.out.println(s.getName());
+        System.out.println(t.getName());
+
+		if (!(bfs(s, t))) {
 			return null;
 		}
 
 		//only call searchBackward if there is a path
 		return searchBackward(s, t);
 	}
-
 
 	/**
 	 * Uses Breath First Search to search through the graph for a path to the target node
@@ -42,8 +45,11 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
 
+        System.out.println(s);
+        System.out.println(t);
+         
 		//counter for values
-		int value = 0;
+		Integer value = 0;
 		boolean finalFound = false;
 
 		//adding initial node to queue and setting value to 0

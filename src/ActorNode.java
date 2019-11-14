@@ -16,7 +16,6 @@ public class ActorNode implements Node {
         return _neighbors;
     }
 
-    
     @Override
     public boolean equals (Object o) {
         final ActorNode other = (ActorNode) o;
