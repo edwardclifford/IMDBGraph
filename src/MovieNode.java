@@ -5,7 +5,7 @@ public class MovieNode implements Node {
     public Collection<ActorNode> _neighbors = new HashSet<ActorNode>();
 
     public MovieNode (String name) {
-        String _name = name;
+        _name = name;
     }
 
     public String getName () {
@@ -16,7 +16,7 @@ public class MovieNode implements Node {
         return _neighbors;
     }
 
-    /*
+    
     @Override
     public boolean equals (Object o) {
         final ActorNode other = (ActorNode) o;
@@ -29,5 +29,5 @@ public class MovieNode implements Node {
         //return hashString.hashCode();
         return _name.hashCode();
     }
-    */
+    
 }

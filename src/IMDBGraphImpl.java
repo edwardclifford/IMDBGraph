@@ -14,7 +14,6 @@ public class IMDBGraphImpl implements IMDBGraph{
         File actorList = new File(actorPath);
         File actressList = new File(actressPath);
 
-        System.out.println("Opening databases...");
         try {
             buildNodes(actorList);
             buildNodes(actressList);
@@ -23,7 +22,6 @@ public class IMDBGraphImpl implements IMDBGraph{
             e.printStackTrace();
         }
 
-        System.out.println("Databases read.");
         //Update sets to include both actresses and actors
         _movieSet = new HashSet<MovieNode>(_movieMap.values());
         _actorSet = new HashSet<ActorNode>(_actorMap.values());
@@ -52,7 +50,6 @@ public class IMDBGraphImpl implements IMDBGraph{
             actorName = scanner.next();
             List<String> titleList = new ArrayList<String>();
 
-            System.out.println("Getting actor: " + actorName);
             while (true) {
                 //Check that file continues
                 if (scanner.hasNextLine()) {
@@ -82,7 +79,6 @@ public class IMDBGraphImpl implements IMDBGraph{
 
             //Build graph nodes for each actor/movie
             for (String movie : titleList) {
-                System.out.println("Adding movie: " + movie); 
                 //Add movie mapping if one does not exist
                 if (!(_movieMap.containsKey(movie))) {
                     _movieMap.put(movie, new MovieNode(movie));
@@ -118,9 +114,7 @@ public class IMDBGraphImpl implements IMDBGraph{
             IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actors_test.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actresses_test.list");
             //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses.list");
  
-        System.out.println(graph.getActors());
         
-        System.out.println(graph.getMovies());
         }
         catch (IOException e) {
             e.printStackTrace();
