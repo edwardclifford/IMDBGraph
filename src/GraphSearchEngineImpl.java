@@ -13,7 +13,7 @@ import java.util.Queue;
 public class GraphSearchEngineImpl implements GraphSearchEngine {
 
 	//create a hash map that holds a value and a node
-	private HashMap<Node, Integer> _graphDist; 
+	private HashMap<Node, Integer> _graphDist = new HashMap<Node, Integer>(); 
 
 	/**
 	 * finds the shortest path from one node to another
