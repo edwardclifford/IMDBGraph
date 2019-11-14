@@ -1,0 +1,1348 @@
+CRC: 0x31A030F4  File: actors.list  Date: Fri Jul 15 00:00:00 2016
+
+Copyright 1990-2007 The Internet Movie Database, Inc.  All rights reserved. 
+
+COPYING POLICY: Internet Movie Database (IMDb)
+==============================================
+
+    This is a  database  of  movie  related  information  compiled  by
+    Internet  Movie  Database  Ltd (IMDb). While every effort has been
+    made to  ensure  the  accuracy  of  the  database  IMDb  gives  no
+    warranty  as  to  the accuracy of the information contained in the
+    database.  IMDb  reserves  the  right  to   withdraw   or   delete
+    information at any time. 
+       
+    This service is provided for the information of users only. It  is
+    not   provided  with  the  intention  that  users  rely  upon  the
+    information for any purposes. Accordingly,  IMDb  shall  under  no
+    circumstances  be liable for any loss or damage, including but not
+    limited to loss of profits, goodwill or indirect or  consequential
+    loss   arising   out   of  any  use  of  or  inaccuracies  in  the
+    information. All warranties express or  implied  are  excluded  to
+    the fullest extent permissible by law. 
+       
+    All information in this file  is  Copyright  2005  Internet  Movie
+    Database  Limited.  Reproduction,  distribution or transmission by
+    any means without the prior permission of IMDb is prohibited.  All
+    rights reserved. 
+
+    For further info visit http://www.imdb.com/licensing/contact
+       
+         -------------------------------------------------------
+   
+    All data and software released by Internet Movie Database  Ltd  is
+    freely  available  to  anyone  within certain limitations. You are
+    encouraged to quote subsets of the database  in  USENET  articles,
+    movie  related  FAQs,  magazine  articles etc. We do ask, however,
+    that you make reference to the source of the data  and  provide  a
+    pointer to the database for the benefit of the reader. 
+       
+    Permission is granted  by  the  copyright  holder  to  allow  free
+    distribution  of  this  file  and  any  other part of the Internet
+    Movie  Database  in  an  ELECTRONIC  FORM  ONLY,   providing   the
+    following conditions are met: 
+       
+         1. NO FEE OF ANY KIND, however indirect, will be  charged
+            for  its  distribution.  If  this file is being stored
+            for  later  distribution  to  anyone   that   can   be
+            construed   as   a   customer   of  yourself  or  your
+            organisation YOU MUST contact Internet Movie  Database
+            Ltd for permission. 
+            
+         2. Each  of  the  database  files  may   be   distributed
+            individually  but  only  in an unaltered form. All the
+            header and trailer information, including this  notice
+            and  the  details  on how to access the database, must
+            remain intact. 
+            
+         3. Specifically the files may NOT be  used  to  construct
+            any  kind  of  on-line database (except for individual
+            personal use). Clearance for  ALL  such  on-line  data
+            resources   must  be  requested  from  Internet  Movie
+            Database Ltd 
+            
+         4. In addition, copies of  the  Internet  Movie  Database
+            frequently  asked  questions  list and additions guide
+            must be made available in the same area / by the  same
+            method as the other database files. 
+
+         5. CD-ROM  distribution  is  prohibited  without  written
+            permission from the Internet Movie Database Ltd 
+            
+    Distribution by e-mail, BBS and  Internet  systems  is  positively
+    encouraged within these limitations. 
+       
+    The files and software which make up the  movie  database  may  be
+    uploaded  to  commercial  BBS  systems  providing  that  the above
+    conditions are met and no *additional* fees are applied above  the
+    standard connect time or downloading charges. 
+
+    For further info visit http://www.imdb.com/licensing/contact
+
+         -------------------------------------------------------
+
+Welcome to the latest version of the actors list. 
+
+Please feel free to submit entries for actors not already on the list,
+or new entries for existing actors. 
+
+This list is managed by Giancarlo Cairella http://imdb.com/contact from
+1990-1998 it was managed by Col Needham http://imdb.com/contact
+
+If you have any additions or corrections please respond by e-mail only. The 
+section at the end of the list contains details on the formats to use. The
+copying policy is also described at the end of the list.
+
+  
+The Internet Movie Database consists of the following lists:               
+             
+ List                 | Maintained by                             | Updated
+ ---------------------|-------------------------------------------|----------
+ Actors               | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Actresses            | Giancarlo Cairella http://imdb.com/contact| 24-06-05
+ Alternative Names    | Duncan Smith http://imdb.com/contact/     | 24-06-05
+ Alternative Titles   | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Alternative Versions | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Biographies          | Geoff Leonard http://imdb.com/contact/    | 24-06-05
+ Business             | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Cast Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Certificates         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Cinematographers     | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Color Information    | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Composers            | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Costume Designers    | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Countries            | Peter Simeon http://imdb.com/contact/     | 17-06-05
+ Crazy Credits        | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ Crew Completion      | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Directors            | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Distributors         | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Editors              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Genres               | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Goofs                | Col Needham http://imdb.com/contact/      | 24-06-05
+ Keywords             | Jake Dias http://imdb.com/contact/        | 24-06-05
+ Languages            | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Laser Discs          | Peter Simeon http://imdb.com/contact/     | 07-21/00
+ Literature           | Giancarlo Cairella http://imdb.com/contact| 17-06-05
+ Locations            | Mark Bailey http://imdb.com/contact/      | 17-06-05
+ MPAA Ratings Reasons | Jon Reeves http://imdb.com/contact/       | 17-06-05
+ Misc. Companies      | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Misc. Filmography    | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Movie Links          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Movies               | Michel Hafner http://imdb.com/contact/    | 17-06-05
+ Plot Summaries       | Colin Tinto http://imdb.com/contact/      | 24-06-05
+ Producers            | Andre Bernhardt http://imdb.com/contact/  | 17-06-05
+ Production Companies | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Production Designers | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ Quotes               | Col Needham http://imdb.com/contact/	  | 24-06-05
+ Ratings              | IMDb Helpdesk http://imdb.com/contact/    | 24-06-05
+ Release Dates        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Running Times        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ SFX Companies        | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Sound Mix            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Soundtracks          | Ron Higgins http://imdb.com/contact/      | 24-06-05
+ Tag Lines            | Mark Bailey http://imdb.com/contact/      | 24-06-05
+ Technical Info       | Peter Simeon http://imdb.com/contact/     | 24-06-05
+ Trivia               | Tim Norris http://imdb.com/contact/	  | 24-06-05
+ Writers              | Duncan Smith http://imdb.com/contact/     | 17-06-05
+ ----------------------------------------------------------------------------
+  								    dd/mm/yy
+  
+SEARCHING THE DATABASE
+======================
+
+The movie database frequently asked questions list contains more information
+on the whole movie database project. For a copy send an e-mail message with
+the subject "HELP FAQ" to <mail-server@imdb.com>. Here is a summary of the
+ways to access the database:
+
+(1) WWW interface
+
+    The Internet Movie Database is available over the WWW. The following sites
+    are owned and operated by or for the IMDb:
+
+        http://us.imdb.com/                                 [USA]
+        http://uk.imdb.com/                                 [UK]
+
+    News and pointers to all IMDb sites are available at IMDb HQ:
+
+        http://www.imdb.com/
+
+(2) e-mail interface
+  
+    For details send a message with the subject HELP to <mail-server@imdb.com>
+
+(3) local installation (Unix/Amiga)
+
+    The movie database package enables you to install the data locally and
+    provides a variety of search tools. It is available via anonymous FTP:
+
+ uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/moviedb-3.4a.tar.gz
+
+ ftp.funet.fi  in  /pub/culture/tv+film/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.fu-berlin.de  in  /pub/misc/movies/database/tools/moviedb-3.4a.tar.gz
+
+ ftp.sunet.se  in  /pub/tv+movies/imdb/tools/moviedb-3.4a.tar.gz
+
+    see the README file in the same directories for more information. The 
+    Amiga version is in the file imdb3_5_Amiga.lha
+
+(4) local installation (OS/2)
+
+    The Alternative Movie Database package provides a graphical and text
+    based interface for OS/2:
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/os2/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/os2/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/os2/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/os2/
+
+(5) local installation (Windows 9x/Windows NT)
+
+    The Alternative Movie Database package is also available as a text only
+    interface for Win-32 systems (9x/NT):
+
+     uiarchive.cso.uiuc.edu  in  /pub/info/imdb/tools/w32/
+
+     ftp.funet.fi  in  /pub/culture/tv+film/database/tools/w32/
+
+     ftp.fu-berlin.de  in  pub/misc/movies/database/tools/w32/
+
+     ftp.sunet.se  in  /pub/tv+movies/imdb/tools/w32/
+
+
+
+
+-----------------------------------------------------------------------------
+RULES:
+1       Movies and recurring TV roles only, no TV guest appearances
+2       Please submit entries in the format outlined at the end of the list
+3       Feel free to submit new actors
+
+"xxxxx"        = a television series
+"xxxxx" (mini) = a television mini-series
+[xxxxx]        = character name
+<xx>           = number to indicate billing position in credits
+(TV)           = TV movie, or made for cable movie
+(V)            = made for video movie (this category does NOT include TV 
+                 episodes repackaged for video, guest appearances in 
+                 variety/comedy specials released on video, or 
+                 self-help/physical fitness videos)
+
+THE ACTORS LIST
+===============
+
+Name			Titles 
+----			------
+
+Actor1	Movie1 (2001)
+
+Actor2	Movie2 (2002)
+
+Actor3	Movie3 (2003)
+
+Basco, Dante		3's a Couple (2014)  [Himself]
+			A Goofy Movie (1995)  (voice)  [Additional Voices]  <20>
+			A Kitty Bobo Show (2001) (TV)  (voice)  [Kitty Bobo]
+			A Sweet Goodbye (????)
+			Aion: The Tower of Eternity (2008) (VG)  (voice)
+			Alien Nation: Body and Soul (1995) (TV)  [Trash #2]  <37>
+			Anime: Drawing a Revolution (2007) (TV)  [Himself]
+			Anita Ho (2014)  [Taylor Bautista]
+			Avatar: The Last Airbender (2006) (VG)  (voice)  [Zuko]  <4>
+			Avatar: The Last Airbender - Into the Inferno (2008) (VG)  (voice)  [Zuko]  <5>
+			Avatar: The Last Airbender - The Burning Earth (2007) (VG)  (voice)  [Zuko]  <5>
+			Awesome Asian Bad Guys (2014)  [Dante (2013)]  <10>
+			Bad Ass 2: Bad Asses (2014) (V)  [Gangly Asian]
+			Biker Boyz (2003)  [Philly]  <13>
+			Blood and Bone (2009)  [Pinball]  <4>
+			Blood River (2010)  [Chuck G]
+			But I'm a Cheerleader (1999)  [Dolph]  <17>
+			Call of Juarez (2006) (VG)  (voice)  [Sees Farther]
+			Call of Juarez: Bound in Blood (2009) (VG)  (voice)  [Seeing Farther]
+			Cold Dog Soup (1990)  [Chinese Boy]  <7>
+			Extremedays (2001)  [Corey]  <1>
+			Fainaru fantajî XIII (2009) (VG)  (voice: English version)  [Cocoon Inhabitants]  <34>
+			Fakin' Da Funk (1997)  [Julian Lee]  <4>
+			Firebreather (2010) (TV)  (voice)  [Kenny Rogers]  <3>
+			Fist of the North Star (1995)  [Bat]  <5>
+			Gangstaz (1996)  [Mario]
+			Gettin' Some Jail Time (2006)  [Himself]
+			Hang Loose (2012)  [Dante]  <1>
+			Hook (1991)  [Rufio]  <14>
+			I'm Coming Out (2011)  [Jai Andrews]
+			Jarhead 3: The Siege (2016)  [Blake]  <5>
+			JLA Adventures: Trapped in Time (2014) (V)  (voice)  [Karate Kid]  <3>
+			Limelight (2017)  [Rez]  <21>
+			Love Don't Cost a Thing (2003)  [Spoken Word Artist]  <35>
+			Moonwalker (1988)  [Romeo]
+			Mouthpiece (2015)  [Himself]
+			Murder101 (2014)  [D. Phillips]  <2>
+			Naked Brown Men (2003)  [Dante]
+			Netflix Musical: Frozen Parody (2014) (V)  [Himself]
+			Nicktoons MLB (2011) (VG)  (voice)  [Prince Zuko]  <1>
+			Nite Tales: The Movie (2008)  [Gerard]
+			Orbyt Play (2016) (TV)  [Guest]
+			Paradise Broken (2011)  [Ray]  <1>
+			Rave (2000)  [Jay Hoon]  <4>
+			Riot (1997) (TV)  [Jeff Lee (segment "Gold Mountain")]  <1>
+			Roscoe and Maggie (2014)  [Roscoe]
+			Safaricize (2013) (TV)  (voice)  [Sheu]
+			Saints Row (2006) (VG)  (voice)  [Stilwater's Resident]  <23>
+			Scarface: The World Is Yours (2006) (VG)  (voice)  <46>
+			Sex.Sound.Silence (2017)  [Gil Morrison]
+			Sightings (2016)  [Akiro Nagi]  <1>
+			Sinbad: The Battle of the Dark Knights (1998)  [Prince Hong]  <9>
+			Six Hours: Surviving Typhoon Yolanda (2014)
+			Skate 3 (2010) (VG)  (voice)  [Shingo]
+			Subject: I Love You (2011)  [Nicky]  <4>
+			Take the Lead (2006)  [Ramos]  <10>
+			Terminator Salvation (2009) (VG)  (voice)  [Resistance Soldier]  <23>
+			The 3rd Annual Geekie Awards (2015) (TV)  [Himself - Presenter]  <11>
+			The Chang Family Saves the World (2002) (TV)  <2>
+			The Debut (2000)  (as Danté Basco)  [Ben Mercado]  <1>
+			The Devil's Dozen (2013)  <7>
+			The Head Thieves (2017)  [Frankie Castillo]  <2>
+			The Hit Man (1991) (TV)  [Pauly]
+			The Journey (2010/I) (V)  [Patricio]
+			The Legend of Korra: The Re-telling of Korra's Journey (2013) (TV)  (archive sound) (uncredited)  [General Iroh]
+			The Lion's Den (1998)  [Lead]  <1>
+			The Outside (2009)  [Indo]  <6>
+			The Perfect Weapon (1991)  [Jimmy Ho]  <6>
+			This Life (2008)  [Alex]
+			"30 Something... else" (2014) {Babysitter Part II}
+			"30 Something... else" (2014) {Babysitter}  [Dante]
+			"30 Something... else" (2014) {Black Socks}
+			"30 Something... else" (2014) {Boob Cracker}
+			"30 Something... else" (2014) {Doctors Appointment}
+			"30 Something... else" (2014) {Eggs}
+			"30 Something... else" (2014) {First Cousins}
+			"30 Something... else" (2014) {Homestuck Twitter}
+			"30 Something... else" (2014) {Motorcycles}
+			"30 Something... else" (2014) {Other People's Kids}
+			"30 Something... else" (2014) {Perfect Imperfections}
+			"30 Something... else" (2014) {Table for Two}
+			"30 Something... else" (2014) {The 40th}
+			"500 Nations" (1995)  (voice)  <13>
+			"500 Nations" (1995) {Clash of Cultures (#1.3)}  (voice)  <13>
+			"500 Nations" (1995) {Mexico (#1.2)}  (voice)  <13>
+			"500 Nations" (1995) {The Ancestors (#1.1)}  (voice)  <13>
+			"Afternoon Delight Live on Hollywood and Vine" (2015)  [Himself - Host (2016)]
+			"American Dragon: Jake Long" (2005) {A Befuddled Mind (#2.10)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {A Ghost Story (#2.26)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Act 4, Scene 15 (#1.5)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Adventures in Troll-Sitting (#1.6)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Being Human (#2.30)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Bite Father, Bite Son (#2.27)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Body Guard Duty (#1.12)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Breakout (#2.6)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Bring It On (#2.1)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Dragon Breath (#1.2)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Dragon Summit (#1.11)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Dreamscape (#2.9)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Eye of the Beholder (#1.16)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Family Business (#2.7)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Feeding Frenzy (#2.12)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Flight of the Unicorn (#1.21)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Fool's Gold (#2.11)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Fu and Tell (#1.20)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Fu Dog Takes a Walk (#1.7)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Furious Jealousy (#2.29)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Game On (#2.28)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Hairy Christmas (#2.16)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Haley Gone Wild (#2.13)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Half Baked (#2.2)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Hero of the Hourglass (#2.8)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Homecoming (#2.20)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Hong Kong Knights (#1.18)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Hong Kong Longs (#2.31)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Jake Takes the Cake (#1.17)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Keeping Shop (#1.22)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Magic Enemy #1 (#2.25)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Nobody's Fu (#2.24)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Old School Training (#1.1)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Professor Rotwood's Thesis (#1.8)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Ring Around the Dragon (#1.23)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Shaggy Frog (#2.23)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Shapeshifter (#1.13)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Siren Says (#2.22)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Ski Trip (#1.14)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Something Fishy This Way Comes (#2.5)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Supernatural Tuesday (#2.14)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Switcheroo (#2.17)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Academy (#2.3)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Doppleganger Gang (#2.4)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Egg (#1.9)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Halloween Bash (#1.19)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Heist (#1.10)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Hunted (#1.24)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Legend of the Dragon Tooth (#1.4)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Long Weekend (#1.15)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Love Cruise (#2.18)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Rotwood Files (#2.15)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {The Talented Mr. Long (#1.3)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Year of the Jake (#2.19)}  (voice)  [Jake Long]  <1>
+			"American Dragon: Jake Long" (2005) {Young at Heart (#2.21)}  (voice)  [Jake Long]  <1>
+			"Avatar: The Last Airbender" (2005) {Appa's Lost Days (#2.16)}  (voice)  [Prince Zuko]  <3>
+			"Avatar: The Last Airbender" (2005) {Avatar Day (#2.5)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {Avatar Roku: Winter Solstice, Part 2 (#1.8)}  (voice)  [Prince Zuko/Additional Voices]  <4>
+			"Avatar: The Last Airbender" (2005) {Avatar: The Last Airbender (#1.0)}  (voice)  [Prince Zuko/Soldier #1]
+			"Avatar: The Last Airbender" (2005) {Bato of the Water Tribe (#1.15)}  (voice)  [Prince Zuko/Additional Voices]  <4>
+			"Avatar: The Last Airbender" (2005) {Bitter Work (#2.9)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {City of Walls and Secrets (#2.14)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Imprisoned (#1.6)}  (uncredited)  [Prince Zuko]
+			"Avatar: The Last Airbender" (2005) {Lake Laogai (#2.17)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Nightmares and Daydreams (#3.9)}  (voice)  [Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Sozin's Comet: Part 1 - The Phoenix King (#3.18)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Sozin's Comet: Part 2 - The Old Masters (#3.19)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Sozin's Comet: Part 3 - Into the Inferno (#3.20)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Sozin's Comet: Part 4 - Avatar Aang (#3.21)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Avatar and the Firelord (#3.6)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Avatar Returns (#1.2)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Avatar State (#2.1)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Awakening (#3.1)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Beach (#3.5)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Blue Spirit (#1.13)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Boiling Rock: Part 1 (#3.14)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Boiling Rock: Part 2 (#3.15)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Boy in the Iceberg (#1.1)}  (voice)  [Prince Zuko/Additional Voices]  <4>
+			"Avatar: The Last Airbender" (2005) {The Cave of Two Lovers (#2.2)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Chase (#2.8)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Crossroads of Destiny (#2.20)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Day of Black Sun: Part 1 - The Invasion (#3.10)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Day of Black Sun: Part 2 - The Eclipse (#3.11)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Desert (#2.11)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Drill (#2.13)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Earth King (#2.18)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Ember Island Players (#3.17)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Firebending Masters (#3.13)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Guru (#2.19)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Headband (#3.2)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Library (#2.10)}  (voice) (credit only)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Secret of the Fire Nation} {{SUSPENDED}}  [Prince Zuko]
+			"Avatar: The Last Airbender" (2005) {The Serpent's Pass (#2.12)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Siege of the North: Part 1 (#1.19)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Siege of the North: Part 2 (#1.20)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Southern Air Temple (#1.3)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Southern Raiders (#3.16)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Spirit World: Winter Solstice, Part 1 (#1.7)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Storm (#1.12)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Swamp (#2.4)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Tales of Ba Sing Se (#2.15)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {The Warriors of Kyoshi (#1.4)}  (voice)  [Prince Zuko/Additional Voices]  <4>
+			"Avatar: The Last Airbender" (2005) {The Waterbending Master (#1.18)}  (voice)  [Prince Zuko]  <4>
+			"Avatar: The Last Airbender" (2005) {The Waterbending Scroll (#1.9)}  (voice)  [Prince Zuko/Additional Voices]  <4>
+			"Avatar: The Last Airbender" (2005) {The Western Air Temple (#3.12)}  (voice)  [Prince Zuko]  <5>
+			"Avatar: The Last Airbender" (2005) {Zuko Alone (#2.7)}  (voice)  [Prince Zuko]  <1>
+			"Beyond Belief: Fact or Fiction" (1997) {The Student}  [Ghost of Rudi Hernandez]
+			"Booker" (1989) {Razing Arrizola (#1.3)}  [Ping Pong]  <8>
+			"Camp Camp" (2016) {Scout's Dishonor (#1.3)}  (voice)  [Billy 'Snake' Niksslip]  <5>
+			"CBS Schoolbreak Special" (1984) {15 and Getting Straight (#6.5)}  [Luis]  <3>
+			"Community" (2009) {Comparative Religion (#1.12)}  (uncredited)  [Bully's Friend #2]
+			"CSI: Miami" (2002) {Happy Birthday (#9.8)}  [Ruben Franco]  <12>
+			"Dark Blue" (2009) {Jane Wayne (#2.6)}  [June Bug]  <6>
+			"Def Poetry" (2002) {(#2.2)}  [Himself]
+			"Entertainment Tonight" (1981) {(2014-08-13)}  [Himself - Actor, Hook]
+			"Entertainment Tonight" (1981) {Robin Williams, in His Own Words - Recap}  [Himself - Hook]
+			"Entourage" (2004) {What About Bob? (#3.11)}  [Fukijama]  <8>
+			"Fight Class" (2011) {Hook: Part 2 (#1.4)}  [Himself]
+			"Generator Rex" (2010) {Crash and Burn (#3.2)}  (voice)  [Tuck]  <7>
+			"Generator Rex" (2010) {Rabble (#1.12)}  (voice)  [Tuck]
+			"Generator Rex" (2010) {Remote Control (#3.13)}  (voice)  [Tuck]  <3>
+			"Hangin' with Mr. Cooper" (1992) {Seoul Shake (#2.8)}  [Sammy]
+			"Hawaii Five-0" (2010) {Pu'olo (#2.14)}  [Nicky Chang]  <11>
+			"HBO First Look" (1992) {Take the Lead (#13.3)}  [Himself]
+			"Hell's Kitchen" (2005) {8 Chefs Compete (#12.14)}  [Himself - Restaurant Patron]  <28>
+			"Highway to Heaven" (1984) {Choices (#5.9)}  [Champ Hopkins]  <3>
+			"Homemade Movies" (2012) {Hook Fight Scene - With the Real Rufio! (#3.4)}  [Rufio]  <1>
+			"Johnny Bravo" (1997) {Win an El Toro Guapo/Witch-ay Woman (#4.3)}  (voice)  [Filipino/Man #3]  <4>
+			"Kim Possible" (2002) {Exchange (#2.12)}  (voice)  [Fukushima]
+			"Lilo & Stitch: The Series" (2003) {Morpholomew: Experiment #316 (#2.14)}  (voice)  [Jake Long]
+			"Love Midori" (2014) {Dante Basco (#1.4)}  [Dante]  <3>
+			"Love Midori" (2014) {The One (#1.7)}  [Dante]  <3>
+			"Moesha" (1996) {It's My Paper and I'll Cry If I Want To (#3.16)}  [Marco]  <13>
+			"Moesha" (1996) {Pajama Jam (#3.22)}  [Marco]  <12>
+			"Moesha" (1996) {She's Back (#3.17)}  [Marco]  <12>
+			"Moesha" (1996) {This Time You've Gone Too Far (#3.20)}  [Marco]  <13>
+			"Nash Bridges" (1996) {Home Invasion (#1.2)}  [Jimmy Chang]  <11>
+			"Peter Panzerfaust" (2013) {Pilot (#1.1)}  (voice)  [Alain]
+			"Pretty Vacant" (????)  [Dante]
+			"Prime Suspect" (2011) {Carnivorous Sheep (#1.2)}  [Bounce]  <16>
+			"Promised Land" (1996) {Out of Bounds (#3.9)}  [Tito]
+			"Providence" (1999) {All the King's Men (#4.14)}  [Justin Kim]  <10>
+			"R.S.V.P." (2011) {Basco Family (#1.12)}  [Himself]
+			"Raven" (1992) {The Journey (#2.3)}  [Lucas]
+			"Recipe Hunters" (2016) {SEX, HUGS & WOK & ROLL (#1.1)}  [Himself]
+			"Santa Barbara" (1984) {(#1.1026)}  [Amado]  <2>
+			"Santa Barbara" (1984) {(#1.1027)}  [Amado]  <2>
+			"Santa Barbara" (1984) {(#1.1028)}  [Amado]  <2>
+			"Santa Barbara" (1984) {(#1.1030)}  [Amado]  <2>
+			"Seasonal Depression the Show" (2013)  [Himself]
+			"Shut Up and Talk" (2012) {Dante Basco (#2.3)}  [Himself]
+			"Star Wars Rebels" (2014) {Breaking Ranks (#1.5)}  (voice)  [Jai Kell]  <9>
+			"The Boondocks" (2005) {The Red Ball (#3.3)}  (voice)  [Jigme]  <9>
+			"The Chronicle" (2001) {Here There Be Dragons (#1.3)}  [Noodles]
+			"The Disney Channel Games" (2006)  (voice)  [Jake Long]
+			"The Disney Channel Games" (2006) {(#1.1)}  (voice)  [Jake Long]
+			"The Disney Channel Games" (2006) {(#1.2)}  (voice)  [Jake Long]
+			"The Disney Channel Games" (2007)  (voice)  [Jake Long]
+			"The Fresh Prince of Bel-Air" (1990) {Cold Feet, Hot Body (#5.23)}  [Kevin]
+			"The Legend of Korra" (2012) {Endgame (#1.12)}  (voice)  [General Iroh]  <9>
+			"The Legend of Korra" (2012) {Kuvira's Gambit (#4.11)}  (voice)  [General Iroh]  <17>
+			"The Legend of Korra" (2012) {Light in the Dark (#2.14)}  (voice)  [General Iroh]  <18>
+			"The Legend of Korra" (2012) {Peacekeepers (#2.5)}  (voice)  [General Iroh]  <16>
+			"The Legend of Korra" (2012) {Skeletons in the Closet (#1.11)}  (voice)  [General Iroh]  <7>
+			"The Legend of Korra" (2012) {Turning the Tides (#1.10)}  (voice)  [General Iroh]  <9>
+			"The New Adam-12" (1989) {Kid Kop (#1.2)}  [Manko]
+			"The Nostalgia Critic" (2007) {Top 11 Best Avatars (#7.37)}  [Himself]  <2>
+			"The Nostalgia Critic" (2007) {Top 11 Worst Avatar Episodes (#7.36)}  [Himself]  <5>
+			"The Proud Family" (2001) {Romeo Must Wed (#1.21)}  (voice)  [Quoc Wong]
+			"The Steve Harvey Show" (1996) {Guess Who's Not Coming to Counseling (#4.13)}  [Lee]  <9>
+			"The Suite Life of Zack and Cody" (2005) {The Suite Life Goes Hollywood: Part 1 (#2.36)}  [Hollywood London]
+			"The Suite Life of Zack and Cody" (2005) {The Suite Life Goes Hollywood: Part 2 (#2.37)}  [Hollywood London]
+			"The Wonder Years" (1988) {Angel (#1.4)}  [Eddie]  <11>
+			"The Wonder Years" (1988) {Swingers (#1.2)}  [Kid #3]  <14>
+			"The Wonder Years" (1988) {The Wonder Years (#4.23)}  (archive footage)  [Gym Class Kid]
+			"Touched by an Angel" (1994) {Random Acts (#3.3)}  (as Danté Basco)  [Robbie Hawkins]  <6>
+			"Ultimate Spider-Man" (2012) {Journey of the Iron Fist (#2.13)}  (voice)  [Scorpion]  <2>
+			"Ultimate Spider-Man" (2012) {Return of the Sinister Six (#2.25)}  (voice)  [Scorpion]  <6>
+			"Undressed" (1999) {If Words Could Kill (#1.14)}  [Jake]  <4>
+			"Undressed" (1999) {Not Enough RAM (#1.10)}  [Jake]  <6>
+			"Undressed" (1999) {The Ex-Files (#1.13)}  [Jake]  <3>
+			"Undressed" (1999) {They Call It Puppet Love #2 (#1.12)}  [Jake]  <6>
+			"Undressed" (1999) {They Call It Puppet Love (#1.11)}  [Jake]  <4>
+			"Viper" (1996) {Holy Terror (#3.18)}  [Rishi Lama]
+			"Zevo-3" (2010) {A Matter of Time (#1.6)}  (voice)  [Matt/Kewl Breeze]  <3>
+			"Zevo-3" (2010) {Beneath the City (#1.3)}  (voice)  [Matt/Kewl Breeze]  <3>
+			"Zevo-3" (2010) {Control (#1.5)}  (voice)  [Matt/Kewl Breeze]  <3>
+			"Zevo-3" (2010) {Daddy Dearest (#1.4)}  (voice)  [Matt/Kewl Breeze]  <3>
+			"Zevo-3" (2010) {Night Terror (#1.2)}  (voice)  [Matt/Kewl Breeze]  <3>
+			"Zevo-3" (2010) {Zevo-3 (#1.1)}  (voice)  [Matt/Kewl Breeze]  <3>
+
+Cole, Chris (X)		2009 Maloof Money Cup Preview Special (2009) (TV)  [Himself]
+			2009 Maloof Money Cup: Skate Street (2009) (TV)  [Himself]
+			Cartoon Network Hall of Game Awards (2011) (TV)  [Himself]
+			Logic Skateboard Media #11 (2002) (V)  [Himself - Skater]
+			Skate 3 (2010) (VG)
+			The Global Assault!!! (2006) (TV)  [Himself]
+			The Motivation (2013)  [Himself]
+			The Motivation 2.0: Real American Skater: The Chris Cole Story (2015)
+			Tony Hawk's Pro Skater 5 (2015) (VG)  [Himself]
+			Where the #$&% Is Santa? (2008) (V)  [Himself]
+			"Fantasy Factory" (2009) {Jingle Z (#3.12)}  [Himself]
+			"The Eric Andre Show" (2012) {Scott Porter/Brutus "The Barber" Beefcake (#2.10)}  [Himself]  <25>
+
+Duffy, Pat (II)		Skate 3 (2010) (VG)
+			The Man Who Souled the World (2007)  [Himself]
+			"Firsthand" (2003)  [Himself]
+
+Dyrdek, Rob		A Tribute to Ryan Dunn (2011)  [Himself]
+			Arby's Action Sports Awards (2006) (TV)  [Himself]
+			Death of a Video Magazine: A Film by Logic Skateboard Media (2003) (V)  [Himself - Skater]
+			Golden Grinders (2009) (V)  [Lil' Rob]
+			Gumball 3000: 6 Days in May (2005) (V)  [Himself]
+			Gymkhana TWO: The Infomercial (2009)  [Himself]
+			Mind Field (2009) (V)  [Himself]
+			Miss Universe 2014 (2015) (TV)  [Himself - Judge]  <12>
+			MTV Video Music Awards 2008 (2008) (TV)  [Himself]
+			Nitro Circus: The Movie (2012)  [Himself]  <16>
+			Public Intoxication (2012) (TV)  [Himself]
+			Righteous Kill (2008)  [Rambo]  <23>
+			Righteous Kill - The Investigation: An In-Depth Look at 'Righteous Kill' (2009) (V)  [Himself]  <9>
+			Skate 3 (2010) (VG)
+			Skate. (2007) (VG)  [Himself]
+			Street Dreams (2009)  [Troy]  <3>
+			Team Ice Cream Vol. 1 Skate Video (2006) (V)  [Himself]  <10>
+			The DC Video (2003) (V)  [Himself]
+			The Motivation (2013)  [Himself]
+			The Motivation 2.0: Real American Skater: The Chris Cole Story (2015)  [Himself]
+			THINK: The Legacy of Think and Grow Rich (2017)  [Himself]
+			Waiting for Lightning (2012)  [Himself]  <2>
+			We Are Skateboarders (2012)
+			WrestleMania XXVII (2011) (TV)  [Himself]
+			"Big Morning Buzz Live" (2011) {Joseph Gordon-Levitt/Rob Dyrdek/Psy (#5.33)}  [Himself]  <3>
+			"Cribs" (2000) {Retro Cribs (#12.1)}  [Himself]
+			"Dinner for Three" (2013)  (rumored)  [Himself]
+			"Fantasy Factory" (2009) {(2011-05-16)}  [Himself]
+			"Fantasy Factory" (2009) {(2011-05-23)}  [Himself]
+			"Fantasy Factory" (2009) {(2011-09-12)}  [Himself]
+			"Fantasy Factory" (2009) {(2011-09-19)}  [Himself]
+			"Fantasy Factory" (2009) {(2012-03-19)}  [Himself]
+			"Fantasy Factory" (2009) {(2012-04-02)}  [Himself]
+			"Fantasy Factory" (2009) {(2012-04-16)}  [Himself]
+			"Fantasy Factory" (2009) {(2012-04-23)}  [Himself]
+			"Fantasy Factory" (2009) {(2014-01-16)}  [Himself]
+			"Fantasy Factory" (2009) {(2014-02-20)}  [Himself]
+			"Fantasy Factory" (2009) {600 Horsepower of American Muscle}  [Himself]
+			"Fantasy Factory" (2009) {Bangin' on Fools (#1.5)}  [Himself]
+			"Fantasy Factory" (2009) {Best of and Behind the Scenes (#1.11)}  [Himself]
+			"Fantasy Factory" (2009) {Best of, Bonus and Behind the Scenes (#2.5)}  [Himself]
+			"Fantasy Factory" (2009) {Best of, Bonus, and Behind the Scenes}  [Himself]
+			"Fantasy Factory" (2009) {Best of: Bonus and Behind the Scenes (#3.9)}  [Himself]
+			"Fantasy Factory" (2009) {Bor Kedryd (#6.9)}  [Himself]
+			"Fantasy Factory" (2009) {Born a Lion (#6.2)}  [Himself]
+			"Fantasy Factory" (2009) {Butt Brothers (#6.3)}  [Himself]
+			"Fantasy Factory" (2009) {Cheese Ballers! (#3.3)}  [Himself]
+			"Fantasy Factory" (2009) {Chunky as Charged}  [Himself]
+			"Fantasy Factory" (2009) {Cole Hernandez (#1.10)}  [Himself]
+			"Fantasy Factory" (2009) {Dirty Man-Horse (#2.1)}  [Himself]
+			"Fantasy Factory" (2009) {Dodging Devil Donkeys (#4.4)}  [Himself]
+			"Fantasy Factory" (2009) {Dusty Monkey (#1.12)}  [Himself]
+			"Fantasy Factory" (2009) {Eat My Cookie}  [Himself]
+			"Fantasy Factory" (2009) {Extreme Timmy (#1.3)}  [Himself]
+			"Fantasy Factory" (2009) {Fantasy Factory's Sketchiest Moments (#3.5)}  [Himself]  <1>
+			"Fantasy Factory" (2009) {Final Final Fantasy Factory Fan Favorite Fepisode}  [Himself]
+			"Fantasy Factory" (2009) {Get with Your Power Animal (#1.2)}  [Himself]
+			"Fantasy Factory" (2009) {Ginger Lion (#4.6)}  [Himself]
+			"Fantasy Factory" (2009) {Happy Meter}  [Himself]
+			"Fantasy Factory" (2009) {Hawaiian Manventure (#3.10)}  [Himself]
+			"Fantasy Factory" (2009) {He's Just a Little Mini-Pig (#3.7)}  [Himself]
+			"Fantasy Factory" (2009) {I'm an Awkward Enabler! (#3.8)}  [Himself]
+			"Fantasy Factory" (2009) {I'm Livin' It (#5.7)}  [Himself]
+			"Fantasy Factory" (2009) {It's Barry... Barry Bright (#3.4)}  [Himself]
+			"Fantasy Factory" (2009) {Jingle Z (#3.12)}  [Himself]
+			"Fantasy Factory" (2009) {Lights Out (#2.7)}  [Himself]  <1>
+			"Fantasy Factory" (2009) {Live Your Brand (#3.2)}  [Himself]
+			"Fantasy Factory" (2009) {Local Celebrity Almost Dies! (#2.4)}  [Himself]
+			"Fantasy Factory" (2009) {Making Moves (#2.9)}  [Himself]
+			"Fantasy Factory" (2009) {Motelier (#1.4)}  [Himself]
+			"Fantasy Factory" (2009) {Natural Born Gymkhana-er (#2.2)}  [Himself]
+			"Fantasy Factory" (2009) {No Mandals (#1.9)}  [Himself]
+			"Fantasy Factory" (2009) {Patty's Bucket List}  [Himself]
+			"Fantasy Factory" (2009) {Project Man Dime (#4.2)}  [Himself]
+			"Fantasy Factory" (2009) {Save Patty (#3.6)}  [Himself]
+			"Fantasy Factory" (2009) {Shark Sugar (#1.7)}  [Himself]
+			"Fantasy Factory" (2009) {Shoe Trees (#6.4)}  [Himself]
+			"Fantasy Factory" (2009) {Snack Off (#6.7)}  [Himself]
+			"Fantasy Factory" (2009) {Strike Slinger and the Bowl Bear}  [Himself]
+			"Fantasy Factory" (2009) {Super Blob (#1.1)}  [Himself]
+			"Fantasy Factory" (2009) {The Berrics vs. Fantasy Factory (#2.8)}  [Himself]
+			"Fantasy Factory" (2009) {The Bleeding Frogs (#4.3)}  [Himself]
+			"Fantasy Factory" (2009) {The Clean Hole Alliance}  [Himself]
+			"Fantasy Factory" (2009) {The Dyrdek Family Vacation (#2.6)}  [Himself]
+			"Fantasy Factory" (2009) {This Is a Skateboard Car (#3.1)}  [Himself]
+			"Fantasy Factory" (2009) {This Is Not Mom Certified (#1.6)}  [Himself]
+			"Fantasy Factory" (2009) {Trust Your Pilot, Respect Your Monkey (#2.3)}  [Himself]
+			"Fantasy Factory" (2009) {TTFL and the Old War Dog}  [Himself]
+			"Fantasy Factory" (2009) {Ultimate Funcle (#6.5)}  [Himself]
+			"Fantasy Factory" (2009) {Unseen Footage Show (#1.8)}  [Himself]
+			"Fantasy Factory" (2009) {We're in the Burrito Game! (#5.2)}  [Himself]
+			"Fantasy Factory" (2009) {Welcome, Big Black (#4.1)}  [Himself]
+			"Fantasy Factory" (2009) {WWII...1972 (#3.11)}  [Himself]
+			"GGN: Snoop Dogg's Double G News Network" (2011) {GGN Best U-bitch-U Videos (#6.29)}  [Himself]
+			"GGN: Snoop Dogg's Double G News Network" (2011) {Rob Dyrdek & Snoop Build an Empire GGN (#5.49)}  [Himself]
+			"Hollywood Medium" (2016) {DJ Qualls/Boy George/Rob Dyrdek/Charisma Carpenter (#1.8)}  [Himself]
+			"Jimmy Kimmel Live!" (2003) {(#6.10)}  [Himself]
+			"Larry King Now" (2012) {Rob Dyrdek (#2.96)}  [Himself - Guest]
+			"Last Call with Carson Daly" (2002) {(2008-02-04)}  [Himself]
+			"Learning Stuff with Caite Upton" (2012) {Caite Learns About Gravity}  [Himself]
+			"Lopez Tonight" (2009) {(2011-03-29)}  [Himself]
+			"MTV's Ultimate Parkour Challenge" (2009) {(#1.7)}
+			"MTV's Ultimate Parkour Challenge" (2009) {(#1.8)}
+			"MTV's Ultimate Parkour Challenge" (2009) {(#1.9)}
+			"MTV's Ultimate Parkour Challenge" (2009) {Melody Ranch (#1.3)}
+			"MTV's Ultimate Parkour Challenge" (2009) {Urban Jungle: PErshing Square (#1.5)}
+			"Nitro Circus" (2009) {Cutting Room Floor}  (uncredited)  [Himself]
+			"Nitro Circus" (2009) {Nitro Circus Circus (#2.7)}  [Himself]
+			"Nitro Circus" (2009) {The Circus Heads West (#1.6)}  [Himself]
+			"On Pace with Pastrana" (2012) {X-Games Loops and Crashes (#1.16)}
+			"Punk'd" (2003) {Inside Punk'd}  (also archive footage)  [Himself]
+			"Punk'd" (2003) {Justin Bieber (#9.1)}  [Himself]
+			"Quiet on the Set" (2014) {Fantasy Factory, Castle, Wipeout, Criminal Minds (#1.11)}
+			"Real Sports with Bryant Gumbel" (1995) {Magic Man/Street Smarts/The Survivor (#20.8)}  [Himself - Former Professional Skateboarder (segment "Street Smarts")]
+			"Ridiculousness" (2011) {(#5.16)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {(#5.20)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {50 Cent (#7.1)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {A$AP Rocky (#3.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Action Bronson (#7.2)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Andy Bell (#7.5)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Bam Margera (#3.6)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Big Black (#1.3)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Big Black II (#1.16)}  [Himself - Host]
+			"Ridiculousness" (2011) {Biker Fox (#1.11)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Brooks Whelan (#6.18)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling I (#2.7)}  [Himself - Host]
+			"Ridiculousness" (2011) {Chanel and Sterling VII (#4.7)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling VIII (#4.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling XIX (#6.16)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling XVI (#6.7)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling XVII (#6.9)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel and Sterling XXI (#7.4)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel Iman (#5.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chanel West Coast (#6.30)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chris "Drama" Pfaff (#1.9)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Chrissy Teigen (#5.1)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Christopher Boykin}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Cole Hernandez (#1.14)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Dan Bilzerian (#6.28)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Dan Heaton (#1.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Danny Brown (#6.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {David Arquette (#5.6)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {David Spade (#5.3)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Derek Hough (#4.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Diplo (#7.17)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Dominic Monaghan (#3.11)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Dr. Drew Pinsky (#6.26)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Dude Perfect (#7.7)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Eddie Barbanell (#3.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Eddie Huang (#5.2)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Eric André (#6.17)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Floyd Mayweather Jr. (#2.2)}  [Himself - Host]
+			"Ridiculousness" (2011) {French Montana (#5.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Future (#6.10)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Guy Fieri (#4.18)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Iliza Shlesinger (#6.25)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Jackson Nicoll (#4.11)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Jagger Eaton (#6.3)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Jason Ellis (#2.6)}  [Himself - Host]
+			"Ridiculousness" (2011) {Jeff Tremaine (#1.7)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Jenna Marbles (#4.10)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Joanna Krupa (#3.16)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Johnny Knoxville (#1.2)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Jordin Sparks (#7.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Judd Leffew (#1.10)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Juicy J (#6.20)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Justin Bieber (#2.1)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Kendall and Kylie Jenner (#5.11)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Larry King (#5.7)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {LeSean McCoy (#6.27)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Lil Duval}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Lyndie Greenwood (#6.4)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Mac Miller II (#7.3)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Maria Menounos (#5.5)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Matt Schlager (#1.8)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Matthew Mounce (#1.6)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Michael B. Jordan (#4.9)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Mike Epps (#4.8)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Nate Robinson (#5.18)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Ne-Yo (#6.1)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Nick Swardson (#4.2)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Nina Agdal (#6.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Nyjah Huston (#4.14)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Paige (#7.12)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Paul Rodriguez (#5.10)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Prince Fielder (#6.19)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Prom (#6.22)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Ray J (#3.13)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Rick Ross (#6.14)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Ryan Dunn (#1.13)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Ryan O'Malley (#1.1)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Sage Kotsenburg (#5.14)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Sara Jean Underwood (#2.3)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Smosh (#6.11)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Steelo Brim (#7.13)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Stevie Ryan}  [Himself]
+			"Ridiculousness" (2011) {Still on MySpace}  [Himself]
+			"Ridiculousness" (2011) {Streetbike Tommy (#2.8)}  [Himself - Host]
+			"Ridiculousness" (2011) {Susanne Daniels (#6.31)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Tanner Foust (#6.5)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {The Dingo (#1.5)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {The Dingo II (#1.15)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {The Dudesons (#4.13)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {The Fat Jewish (#6.32)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Travis Mills (#6.29)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Travis Pastrana (#1.4)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Travis Scott (#7.14)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Tyga (#4.17)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Tyler Farr (#7.19)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Tyler Posey (#6.21)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {Tyler the Creator & Taco Bennett (#2.10)}  [Himself - Host]  <1>
+			"Ridiculousness" (2011) {Tyler the Creator (#5.17)}  [Rob Dyrdek]  <1>
+			"Ridiculousness" (2011) {YG (#6.8)}  [Rob Dyrdek]  <1>
+			"Rob & Big" (2006) {Black Lavender (#2.5)}  [Himself]
+			"Rob & Big" (2006) {Bobby Light (#2.7)}  [Himself]
+			"Rob & Big" (2006) {Do Work (#1.8)}  [Himself]
+			"Rob & Big" (2006) {Go Skate Day (#1.2)}  [Himself]
+			"Rob & Big" (2006) {Guinness (#3.5)}  [Himself]
+			"Rob & Big" (2006) {Happy Birthday (#1.5)}  [Himself]
+			"Rob & Big" (2006) {Let's Get Physical (#1.4)}  [Himself]
+			"Rob & Big" (2006) {Making the House a Home (#1.6)}  [Himself]
+			"Rob & Big" (2006) {Meaty & Mini (#2.1)}  [Himself]
+			"Rob & Big" (2006) {Meaty Goes to Hollywood (#3.4)}  [Himself]
+			"Rob & Big" (2006) {Mini-Horse Road Trip (#3.3)}  [Himself]
+			"Rob & Big" (2006) {Mississippi (#2.3)}  [Himself]
+			"Rob & Big" (2006) {Moving In (#1.1)}  [Himself]
+			"Rob & Big" (2006) {New Assistant (#2.4)}  [Himself]
+			"Rob & Big" (2006) {New Cars (#2.8)}  [Himself]
+			"Rob & Big" (2006) {Poop in the Pool (#3.1)}  [Himself]
+			"Rob & Big" (2006) {Security (#1.7)}  [Himself]
+			"Rob & Big" (2006) {Tampa (#2.6)}  [Himself]
+			"Rob & Big" (2006) {Time Travel (#2.2)}  [Himself]
+			"Rob & Big" (2006) {Travel (#1.3)}  [Himself]
+			"Rob & Big" (2006) {Turtle Racing (#3.2)}  [Himself]
+			"Smosh" (2006) {Real Watch Dogs Hacks (#9.22)}  [Himself]
+			"Wild Grinders" (2012) {A Mole Lot of Trouble/Redonkulousness (#2.21)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {A World Gone Rad Awesome/Operation Supernova (#1.22)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Blast from the Past (#2.24)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Board Senseless/Big Top Rob (#1.26)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Call of the Wild Grinder (#2.27)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Cat Scratch Meaty/Wild BFFs (#2.20)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Deconstructed/Close Up (#1.1)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Demolition Man, Man/Hair Today, Gone Tomorrow (#2.18)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Dr. Jekyll & Mr. Grinder/Skate or Sick (#2.10)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Fists of Justice: The Beginning/Mr. Dogfyre (#2.15)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Gettin' Cheezy/Grindy the Snowman (#2.25)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Going Hollyweird/Shark Attack (#1.2)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Great Wheels of Fire (#2.29)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Grindbox 1080: Start/Grindbox 1080 - Game Over (#2.2)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Grinder Claus Is Coming to Town/Merry Grindernukamas (#1.24)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Grindermania/Crushin (#1.9)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Grindinator/Grinder of Another Dimension (#2.17)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Grindstar Returns/Skaterz of Ollie (#1.23)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Hoopz Dreamz/Who's the Dummy, Dummy? (#1.21)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Jurassic Skate Park/The Chosen Bulldog (#1.10)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Lights! Camera! Denise! (#2.28)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Lil Rob and the Beanstalk (#2.19)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Lil Rob Roundup/Wild Step Brothers (#1.15)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Meaty in Black/Grinders of Invention (#1.14)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Midas Touch/Pre-Teen Mutated Karate Warrior (#2.14)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {My Lil Unicorn/Breakfast of Skaters (#1.12)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Neptune's Chowder/Squatch Grinder (#1.6)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Never Skate with Unicorns/Biggest Sellout (#1.3)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Out of Tune/Picnic of Doom (#1.5)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Pen Pal from Another Planet/Roman Grinders (#2.6)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Preston Change-O/Biggest Fan (#1.17)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {School Daze/Grindergeddon (#2.12)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Search for Master Sensei/Meaty's Royal Adventure (#1.20)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Skater Who Cried Wolf/Good Dog, Bad Dog Academy (#1.13)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Space Race/Road Tripped (#1.8)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Substitute Secret Agent/Wild Scouts (#1.18)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Survivored/Fast Times at Sprawl City Middle School (#2.4)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Swaggerless/Goggles Shrunk the Grinders (#1.16)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Take Me to Your Stubford/Emo's Mystery Girl (#1.25)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Texas Skateboard Horrorland Zombie Activity 3 (#2.1)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Amaaazing Adventures of Captain Grindstar/Red Riding Rob (#1.7)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Amaaazing Racers/Wild Wild Mess (#2.16)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Big Sleep... Over/Lil Rob'n Hood (#2.11)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The League of Xtraordinary Sk8ers/Wild Grinders, Assemble (#2.5)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Luck of the Grindish/Bend It Like a Wild Grinder (#2.7)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Prince & the Skateboarder/Board Story (#1.4)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Secret Life of Spitball/Backside Grinders: The Reunion Tour (#2.3)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {The Tell Tale Board/It's Not My Asphalt (#2.9)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Treasure of the Sierra Sprawl/Special Delivery (#2.8)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Web Wars (#2.23)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {When You Grind Upon a Star (#2.22)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Wild Grinder Style (#2.26)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Wild Grinder with Two Heads/The Legend of Jilly (#2.13)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {Wild Zombies/Scream a Little Scream (#1.19)}  [Lil Rob/Gene]
+			"Wild Grinders" (2012) {World of GnarlyCraft (#1.11)}  [Lil Rob/Gene]
+
+Haslam, Chris		5-Incher (2012) (V)  [Himself]  <1>
+			Cheese & Crackers (2006) (V)  [Himself]  <1>
+			Money for Blood (2007) (TV)  [Himself]
+			Riding the Long White Cloud (2009) (TV)  [Himself]
+			Round Three (2004) (V)  [Himself]
+			Skate 3 (2010) (VG)
+			United by Fate 1 (2007) (TV)  [Himself]
+			United by Fate 2 (2007) (TV)  [Himself]
+			United by Fate 3 (2008) (TV)  [Himself]
+			United by Fate 4 (2008) (TV)  [Himself]
+			United by Fate 5 (2009) (TV)
+			United by Fate 6 (2010) (TV)  [Himself]
+
+Kennedy, Terry (V)	Beef 4 (2007) (V)  (as Terry 'TK' Kennedy)  [Himself - Pro Skater]
+			Concrete Jungle (2009)  [Himself]
+			Maloof Money Cup (2008) (TV)  [Himself]
+			Minghags (2009)  [Compton Ass Terry]
+			Skate 3 (2010) (VG)
+			Street Dreams (2009)  [Reese]  <4>
+			Team Ice Cream Vol. 1 Skate Video (2006) (V)  [Himself]  <1>
+			Top 12 Moments of the BET Awards (2009) (TV)  [Himself]
+			"Being Terry Kennedy" (2010)  [Terry]
+			"Fantasy Factory" (2009) {This Is Not Mom Certified (#1.6)}  [Himself]
+			"Switched!" (2003) {Cody and Terry}  [Himself]
+			"The Mo'Nique Show" (2009) {(2010-10-08)}  [Himself]
+			"Viva la Bam" (2003) {Drive-Way Skate Park (#3.1)}  [Himself]
+			"Viva la Bam" (2003) {Fort Knoxville (#3.3)}  (as Compton-Ass Terry)  [Himself]
+			"Viva la Bam" (2003) {Mall of Bam (#3.7)}  [Himself]
+			"Viva la Bam" (2003) {The Family Reunion (#1.3)}  (as Compton-Ass Terry)  [Himself]
+
+Koston, Eric		Fully Flared (2007) (V)
+			Gigantic Skate Park Tour: Summer 2002 (2002) (TV)  [Himself/Skater]
+			Harsh Euro Barge (2002) (V)
+			Jackass 3D (2010)  [Himself]  <12>
+			Jackass Backyard BBQ (2002) (TV)  [Himself/Guest]
+			Jackass: The Movie (2002)  [Himself]  <26>
+			Maloof Money Cup (2008) (TV)  [Himself]
+			Menikmati (2002) (V)  [Himself]
+			Mouse (1997) (V)
+			Op King of Skate (2002) (V)
+			Point Break (2015)  [Cameo Chalet]  <41>
+			Pretty Sweet (2012)
+			Rising Son: The Legend of Skateboarder Christian Hosoi (2006)  [Himself]
+			Skate 3 (2010) (VG)
+			Super Champion Funzone (2005) (V)
+			The Global Assault!!! (2006) (TV)  [Himself]
+			The Motivation (2013)  [Himself]
+			Tony Hawk's Pro Skater 2 (2000) (VG)  [Himself]  <13>
+			Tony Hawk's Pro Skater 3 (2001) (VG)  [Himself]  <5>
+			Tony Hawk's Pro Skater 4 (2002) (VG)  [Himself]  <16>
+			Tony Hawk's Underground (2003) (VG)  [Himself]  <21>
+			Tony Hawk's Underground 2 (2004) (VG)  (voice)  [Himself/Skater]  <17>
+			Ultimate X: The Movie (2002)  [Himself/Footage]
+			Unbeleafable (2011)  [Himself]
+			Yeah Right! (2003) (V)  [Himself]
+			"Cribs" (2000) {(2003-02-16)}  [Himself]
+			"Fantasy Factory" (2009) {Dusty Monkey (#1.12)}  [Himself]
+			"Fantasy Factory" (2009) {The Berrics vs. Fantasy Factory (#2.8)}  [Himself]
+			"Knife Fight" (2013) {Fullilove vs. Boudet (#1.5)}  [Himself - Timekeeper/Professional Skateboarder]
+			"The Aquabats! Super Show!" (2012) {Return of the Aquabats! (#2.1)}  [Journalist #2]
+			"Trippin" (2005) {Caleta Condor, Chile (#1.4)}  [Himself]
+			"Trippin" (2005) {Chile (#1.3)}  [Himself]
+
+Lee, Jason (I)		100 Greatest Cartoons (2005) (TV)  [Himself]
+			13th Annual Screen Actors Guild Awards (2007) (TV)  [Himself]
+			1998 MTV Movie Awards (1998) (TV)  [Himself]
+			2000 Blockbuster Entertainment Awards (2000) (TV)  [Himself]
+			411VM Skateboarding Issue 65 (2004) (V)  [Himself]
+			A Better Place (1997)  (as Dennis Pepper)  [Dennis Pepper]  <11>
+			A Guy Thing (2003)  [Paul]  <1>
+			Almost Famous (2000)  [Jeff Bebe]  <4>
+			Alvin and the Chipmunks (2007)  [Dave]  <1>
+			Alvin and the Chipmunks (2007) (VG)  (voice)  [Dave Seville]  <3>
+			Alvin and the Chipmunks: Chipwrecked (2011)  [Dave]  <1>
+			Alvin and the Chipmunks: The Road Chip (2015)  [Dave]  <1>
+			Alvin and the Chipmunks: The Squeakquel (2009)  [Dave]  <3>
+			Away and Back (2015) (TV)  [Jack Peterson]  <1>
+			Bachelor Party Confidential (2003) (V)  (also archive footage)  [Himself/Paul Morse]  <10>
+			Back to the Well: 'Clerks II' (2006) (V)  (uncredited)  [Himself]
+			Behaving Badly (2014)  [Father Krumins]  <9>
+			Big Trouble (2002)  [Puggy]  <14>
+			Chasing Amy (1997)  [Banky Edwards]  <4>
+			Clerks II (2006)  [Lance Dowds]  <21>
+			Cocked (2015) (TV)  [Grady Paxson]  <2>
+			Columbus Circle (2012)  [Charles Stanford]  <8>
+			Cop Out (2010)  [Roy]  <16>
+			Cuisine américaine (1998)  [Loren Collins]  <1>
+			Digging Up the Dirt: Making 'Drop Dead Sexy' (2005) (V)  [Himself]
+			Disney Infinity (2013) (VG)  (voice)  [Syndrome]  <31>
+			Disney Infinity 3.0 (2015) (VG)  (voice)  [Syndrome]  <53>
+			Disney Infinity: Marvel Super Heroes (2014) (VG)  (voice)  [Syndrome]  <38>
+			Dogma (1999)  [Azrael]  <18>
+			Drawing Flies (1996)  [Donner]  <1>
+			Dreamcatcher (2003)  [Beaver]  <3>
+			Drop Dead Sexy (2005)  [Frank]  <1>
+			Enemy of the State (1998)  [Daniel Zavitz]  <13>
+			Everyday Sunshine: The Story of Fishbone (2010)  [Himself]  <39>
+			Good Ol' Boy (2015)  [Butch Brunner]  <1>
+			Groovy Gravy: Making the Scene in 'A Guy Thing' (2003) (V)  [Himself - 'Paul Morse']  <7>
+			Heartbreakers (2001)  [Jack Withrowe]  <4>
+			Heartbreakers: Laffs & Gaffes (2001) (V)  [Himself]
+			Hiatus (1996) (TV)
+			I Love Your Work (2003)  [Larry Hortense]  <7>
+			Inside 'A Guy Thing' (2003) (V)  (also archive footage)  [Himself/Paul Morse]  <7>
+			Jack-Jack Attack (2005) (V)  (voice)  [Syndrome]  <4>
+			Jay and Silent Bob Strike Back (2001)  [Brodie Bruce/Banky Edwards]  <11>
+			Jersey Girl (2004)  [PR Exec #1]  <27>
+			Judge Not: In Defense of Dogma (2001) (V)  [Himself (Interviewee)]
+			Kissing a Fool (1998)  [Jay Murphy]  <2>
+			Krater (2010) {{SUSPENDED}}
+			Mallrats (1995)  [Brodie]  <3>
+			Mallrats: The Erection of an Epic - The Making of Mallrats (2005) (V)  [Himself - 'Brodie']
+			Mi vida loca (1993)  [Teenage Drug Customer]  <48>
+			Monster House (2006)  (voice)  [Bones]  <10>
+			Mostly Infamous (2012) {{SUSPENDED}}  (archive footage)
+			Mumford (1999)  [Skip Skipperton]  <3>
+			Nickelodeon Kids' Choice Awards 2008 (2008) (TV)  [Himself]
+			Ninth November Night (2004)  [Himself]  <4>
+			Noah (2012/III)  (voice)  [Japheth]  <2>
+			Oh, What a Lovely Tea Party (2004)  [Himself]
+			Pixar: 25 Magic Moments (2011) (TV)  [Himself]
+			Redd Kross: Jimmy's Fantasy (1993)  [Jimmy]
+			Rising Son: The Legend of Skateboarder Christian Hosoi (2006)  [Himself]
+			Second Sight (2013) (TV)  [Ross Tanner]
+			Shredd (2011) (TV)  [Jon Johnsenson]
+			Skate 3 (2010) (VG)  (voice)  [Coach Frank]
+			Sonic Youth Video Dose (2004) (TV)
+			Stealing Harvard (2002)  [John Plummer]  <1>
+			Stoked: The Rise and Fall of Gator (2002)  [Himself]
+			Tell (2014)  [Ray]  <3>
+			The 2001 IFP/West Independent Spirit Awards (2001) (TV)  (uncredited)  [Himself - Presenter]
+			The 32nd Annual People's Choice Awards (2006) (TV)  [Himself]
+			The 57th Annual Primetime Emmy Awards (2005) (TV)  [Himself - Presenter: Outstanding Supporting Actor in a Miniseries or a Movie]
+			The 58th Annual Primetime Emmy Awards (2006) (TV)  [Himself - Presenter]
+			The 64th Annual Golden Globe Awards (2007) (TV)  [Himself - Nominee: Best Actor in a Television Series - Musical or Comedy]
+			The Ballad of Jack and Rose (2005)  [Gray]  <6>
+			The Channel 101 Experience (2012)  (archive footage) (uncredited)  [Kevin Bacon]
+			The Incredibles (2004)  (voice)  [Buddy Pine/Syndrome]  <4>
+			The Incredibles (2004) (VG)  (voice)  [Syndrome/Buddy Pine]  <8>
+			The Man Who Souled the World (2007)  [Himself]
+			The Teen Choice Awards 2007 (2007) (TV)  [Himself]
+			Tony Hawk's Project 8 (2006) (VG)  (voice)  [Himself]  <13>
+			Tracing Amy: The Chasing Amy Doc (2009) (V)  [Himself]  <7>
+			Train Wreck! (2006) (V)  [Himself]
+			Underdog (2007)  (voice)  [Underdog]  <1>
+			Vanilla Sky (2001)  [Brian Shelby]  <5>
+			Video Days (1991) (V)
+			View Askew's Look Back at 'Mallrats' (1999) (V)  [Himself/Brodie]  <6>
+			Way Out East (2004)  [Himself]
+			We Ride: The Story of Snowboarding (2013)  [Narrator]
+			Weapons of Mass Distraction (1997) (TV)  [Phillip Messenger]  <10>
+			What Goes Around Comes Around (2016) (TV)  [Kenny]
+			With Great Power: The Stan Lee Story (2010)  [Himself]
+			"American Dad!" (2005) {Rough Trade (#1.17)}  (voice)  [Officer Bays]
+			"American Dad!" (2005) {Stan Smith Is Keanu Reeves as Stanny Utah in Point Break (#11.5)}  (voice)  [Sam]
+			"Celebrity Family Feud" (2008) {The Office vs. American Gladiators, Hickeys vs. Camden County (#1.3)}  [Earl Hicky]
+			"Comedy Central Canned Ham" (1996) {Jay and Silent Bob Strike Back}  (also archive footage)  [Himself - 'Banky & Brody']  <2>
+			"Comedy Central Canned Ham" (1996) {Stealing Harvard}  [Himself]
+			"Corazón de..." (1997) {(2006-01-11)}  (uncredited)  [Himself]
+			"Cut Masters" (2005)  [Himself]
+			"Dinner for Five" (2001) {(#4.12)}  [Himself]
+			"Ellen: The Ellen DeGeneres Show" (2003) {(2005-10-18)}  [Himself - Guest]
+			"Ellen: The Ellen DeGeneres Show" (2003) {(2007-05-09)}  [Himself - Guest]
+			"Entertainment Tonight" (1981) {(2007-07-31)}  [Himself]
+			"Entertainment Tonight" (1981) {(2007-08-03)}  [Himself]
+			"Entertainment Tonight" (1981) {(2007-12-14)}  [Himself]
+			"Entertainment Tonight" (1981) {(2008-03-28)}  [Himself]
+			"eTalk Daily" (2002) {(2007-07-27)}  [Himself]
+			"Extra" (1994) {(2007-12-15)}  [Himself]
+			"HBO First Look" (1992) {'Dreamcatcher': Unraveling the Nightmare (#10.5)}  [Himself - 'Beaver']  <7>
+			"Hollywood's Top Ten" (2010) {Mall Madness (#1.176)}  [Himself]
+			"How I Rock It" (2013) {Jason Lee, Michael Chernow, Waraire Boswell, Jim James (#1.1)}  [Himself]
+			"Jimmy Kimmel Live!" (2003) {(#4.332)}  [Himself - Guest]
+			"Kevin Pollak's Chat Show" (2009) {Jason Lee (#1.16)}  [Himself - Guest]
+			"Knife Fight" (2013) {Strubel vs. Mairinger (#1.9)}  [Himself - Timekeeper/Actor]
+			"Late Night with Conan O'Brien" (1993) {(#10.8)}  [Himself - Guest]
+			"Late Night with Conan O'Brien" (1993) {(#13.60)}  [Himself - Guest]
+			"Late Night with Conan O'Brien" (1993) {(#14.5)}  [Himself - Guest]
+			"Late Night with Conan O'Brien" (1993) {(#15.64)}  [Himself - Guest]
+			"Late Night with Jimmy Fallon" (2009) {(#3.89)}  [Himself - Guest]  <2>
+			"Late Show with David Letterman" (1993) {(2006-05-10)}  [Himself - Guest]
+			"Live with Regis and Kathie Lee" (1988) {(2007-12-10)}  [Himself - Guest]
+			"Live with Regis and Kathie Lee" (1988) {(2010-06-17)}  [Himself - Guest]  <4>
+			"Made in Hollywood" (2005) {(#7.11)}  [Himself]
+			"MallBrats" (????)  [Brodie Bruce]
+			"Memphis Beat" (2010) {At the River (#2.1)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Baby, Let's Play House (#1.2)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Body of Evidence (#2.7)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Don't Be So Cruel (#1.9)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Flesh and Blood (#2.4)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {I Shall Not Be Moved (#1.8)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {I Want to Be Free (#1.10)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Identity Crisis (#2.8)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Inside Man (#2.2)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {It's All Right, Mama (#1.1)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Lost (#2.3)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Love Her Tender (#1.3)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {One Night of Sin (#1.5)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Polk Salad Annie (#1.4)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Run On (#1.6)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Suspicious Minds (#1.7)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Ten Little Memphians (#2.9)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {The Feud (#2.10)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {The Things We Carry (#2.5)}  [Dwight Hendricks]  <1>
+			"Memphis Beat" (2010) {Troubled Water (#2.6)}  [Dwight Hendricks]  <1>
+			"Men at Work" (2012) {Tyler the Pioneer (#2.6)}  [Donny]  <6>
+			"My Name Is Earl" (2005) {B.L.O.W (#2.16)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Bad Earl (#3.13)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Barn Burner (#1.11)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {BB (#1.23)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Boogeyman (#1.20)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Born a Gamblin Man (#2.9)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Broke Joy's Fancy Figurine (#1.6)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Bullies (#4.23)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Buried Treasure (#2.13)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Burn Victim (#3.11)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Camdenites: Part 1 (#3.21)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Camdenites: Part 2 (#3.22)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Chaz Dalton's Space Academy (#4.20)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Cost Dad the Election (#1.9)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Creative Writing (#3.5)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Dad's Car (#1.18)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Darnell Outed: Part 1 (#4.15)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Darnell Outed: Part 2 (#4.16)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Didn't Pay Taxes (#1.17)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Dodge's Dad (#4.27)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Earl and Joy's Anniversary (#4.10)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Early Release (#3.12)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Faked My Own Death (#1.4)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Foreign Exchange Student (#2.15)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Frank's Girl (#3.6)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Friends with Benefits (#4.18)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {G.E.D. (#2.21)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Get a Real Job (#2.22)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Girl Earl (#3.20)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Gospel (#4.24)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Got the Babysitter Pregnant (#4.14)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Guess Who's Coming Out of Joy (#2.18)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Harassed a Reporter (#2.19)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {I Won't Die with a Little Help from My Friends: Part 1 (#3.14)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {I Won't Die with a Little Help from My Friends: Part 2 (#3.15)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Inside Probe: Part 1 (#4.25)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Inside Probe: Part 2 (#4.26)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Joy in a Bubble (#4.3)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Joy's Wedding (#1.8)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Jump for Joy (#2.2)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Kept a Guy Locked in a Truck (#2.14)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Killerball (#3.18)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Larceny of a Kitty Cat (#2.4)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Little Bad Voodoo Brother (#4.8)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Love Octagon (#3.19)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Made a Lady Think I Was God (#2.6)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Mailbox (#2.7)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Midnight Bun (#3.10)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Monkeys in Space (#1.14)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Monkeys Take a Bath (#4.2)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {My Name is Alias (#4.19)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {My Name Is Inmate #28301-016: Part 1 (#3.1)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {My Name Is Inmate #28301-016: Part 2 (#3.2)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Nature's Game Show (#4.11)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {No Heads and a Duffle Bag (#3.17)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Number One (#1.24)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {O Karma, Where Art Thou? (#1.12)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Orphan Earl (#4.13)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Our 'Cops' Is On! (#2.12)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Our Other Cops Is On!: Part 1 (#3.7)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Our Other Cops Is On!: Part 2 (#3.8)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Pilot (#1.1)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Pinky (#4.22)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Quit Smoking (#1.2)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Quit Your Snitchin' (#4.7)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Randy in Charge: Of Our Days and Our Nights (#3.9)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Randy's List Item (#4.17)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Randy's Touchdown (#1.3)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Reading Is a Funda Mental Case (#4.12)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Robbed a Stoner Blind (#2.8)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Sold a Guy a Lemon Car (#4.9)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Something to Live For (#1.15)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {South of the Border: Part Dos (#2.11)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {South of the Border: Part Uno (#2.10)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Sticks & Stones (#2.3)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Stole a Badge (#1.22)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Stole a Motorcycle (#3.16)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Stole an RV (#4.4)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Stole Beer from a Golfer (#1.7)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Stole P's HD Cart (#1.13)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Sweet Johnny (#4.5)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Teacher Earl (#1.5)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Birthday Party (#2.17)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Bounty Hunter (#1.21)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Frank Factor (#3.4)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Gangs of Camden County (#3.3)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Magic Hour (#4.1)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Professor (#1.16)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {The Trial (#2.23)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Two Balls, Two Strikes (#2.20)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Van Hickey (#2.5)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Very Bad Things (#2.1)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {We've Got Spirit (#4.6)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {White Lie Christmas (#1.10)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Witch Lady (#4.21)}  [Earl Hickey]  <1>
+			"My Name Is Earl" (2005) {Y2K (#1.19)}  [Earl Hickey]  <1>
+			"Perversions of Science" (1997) {Panic (#1.7)}  [Spaceman Bob]  <1>
+			"Player$" (2002) {Tom Green & Jason Lee (#1.11)}  [Himself]
+			"Raising Hope" (2010) {Burt Rocks (#1.10)}  [Smokey]  <5>
+			"Raising Hope" (2010) {I Want My Baby Back, Baby Back, Baby Back (#2.22)}  [Smokey]  <7>
+			"Raising Hope" (2010) {Making the Band (#3.19)}  [Smokey Floyd]  <7>
+			"Saturday Night Live" (1975) {Jason Lee/Foo Fighters (#31.5)}  [Himself - Guest Host]  <18>
+			"Spoilers with Kevin Smith" (2012) {Gore Score and Severed Ears Ago (#1.4)}  [Himself]
+			"The Daily Show" (1996) {Chris Rock (#7.119)}  [Himself - Guest]
+			"The Daily Show" (1996) {Jason Lee (#7.112)}  [Himself - Guest]
+			"The Daily Show" (1996) {Jason Lee (#7.33)}  [Himself - Guest]
+			"The Directors" (1997) {The Films of Kevin Smith}  [Himself]
+			"The Hills" (2006) {Girls Night Out (#3.24)}  [Himself]
+			"The Late Late Show with Craig Ferguson" (2005) {(#1.60)}  [Himself - Guest]
+			"The Late Late Show with Craig Ferguson" (2005) {(#1.95)}  [Himself - Guest]
+			"The Late Late Show with Craig Ferguson" (2005) {(#2.112)}  [Himself - Guest]
+			"The Late Late Show with Craig Ferguson" (2005) {(#8.92)}  [Himself - Guest]
+			"The Late Late Show with Craig Kilborn" (1999) {(2004-11-08)}  [Himself - Guest]
+			"The Meredith Vieira Show" (2014) {N Sync Newlywed Lance Bass/Jason Lee/Tamron Hall/"How to MakeYour Husband Hotter" Makeover (#1.101)}  [Himself - Guest]
+			"The Show Girl" (2009)  [Himself - Guest]
+			"The Tonight Show with Jay Leno" (1992) {(#13.158)}  [Himself - Guest]
+			"The Tonight Show with Jay Leno" (1992) {(#13.196)}  [Himself - Guest]
+			"The Tonight Show with Jay Leno" (1992) {(#14.168)}  [Himself - Guest]
+			"The Tonight Show with Jay Leno" (1992) {(#14.40)}  [Himself - Guest]
+			"The Tonight Show with Jay Leno" (1992) {(#15.175)}  [Himself - Guest]
+			"The View" (1997) {(2007-09-28)}  [Himself - Guest]
+			"Today" (1952) {(2005-09-20)}  [Himself - Guest]
+			"Today" (1952) {(2007-09-25)}  [Himself - Guest]
+			"Today" (1952) {(2007-11-27)}  [Himself - Guest]
+			"Today" (1952) {(2008-06-24)}  (uncredited)  [Himself - Guest]
+			"Up All Night" (2011) {Day After Valentine's Day (#1.15)}  [Kevin]  <5>
+			"Up All Night" (2011) {First Christmas (#1.11)}  [Kevin]  <5>
+			"Up All Night" (2011) {First Night Away (#1.8)}  [Kevin]  <5>
+			"Up All Night" (2011) {New Year's Eve (#1.12)}  [Kevin]  <5>
+			"Up All Night" (2011) {The Proposals (#1.24)}  [Kevin]  <5>
+			"Up All Night" (2011) {Travel Day (#1.16)}  [Kevin]  <5>
+			"Up All Night" (2011) {Week Off (#1.10)}  [Kevin]  <5>
+			"Up Close with Carrie Keagan" (2007) {(2007-12-12)}  [Himself - Guest]
+			"VH1: All Access" (2001) {Awesomely Wacky Celebrity Baby Names}  (archive footage)  [Himself]
+			"We Bare Bears" (2014) {Brother Up (#1.14)}  (voice)  [Charlie/Additional Voices]
+			"We Bare Bears" (2014) {Charlie & the Snake (#1.20)}  (voice)  [Charlie]
+			"We Bare Bears" (2014) {Charlie (#1.13)}  (voice)  [Charlie]
+			"We Bare Bears" (2014) {Charlie Ball (#1.26)}  (voice)  [Charlie]
+			"We Bare Bears" (2014) {Chicken and Waffles (#2.12)}  (voice)  [Charlie]
+			"Yacht Rock" (2005) {Footloose (#1.11)}  [Kevin Bacon]
+
+Navarette, Darren	Blood Shed (2009)  [Skater]
+			Skate 3 (2010) (VG)
+			"Flying Wild Alaska" (2011) {Cakes on a Plane (#2.10)}  [Himself - Profressional Skateboarder]  <11>
+
+Reda, Giovanni		Skate 3 (2010) (VG)
+			Two for One (2016/I)  [Dino Paglia]
+			"Knife Fight" (2013) {Baumgarten vs. Wexler (#1.13)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Cardoons (#2.4)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Collins vs. Feau (#1.1)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Fullilove vs. Boudet (#1.5)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Kalman vs. Richter (#1.15)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Kobayashi vs. Arrington (#1.3)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Live King Crab (#2.3)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Lunetta vs. Fraser (#1.18)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Morningstar vs. Jacobsen (#1.2)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Neroni vs. Toft (#1.4)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Oh vs. Lieberher (#1.11)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Oxtail (#2.2)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Paderno vs. Santana (#1.7)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Page vs. Trees (#1.8)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Pereira vs. Lee (#1.10)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Pig Ears (#2.7)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Rocco vs. Herndon (#1.6)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Sea Snails (#2.5)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Strubel vs. Mairinger (#1.9)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Sweetbreads (#2.6)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Trani vs. Abgaryan (#1.17)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Travi vs. Kuramoto (#1.16)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Whole Pig (#2.1)}  [Himself - Master of Ceremonies]
+			"Knife Fight" (2013) {Zarate vs. Becerra (#1.14)}  [Himself - Master of Ceremonies]
+			"My Name Is Earl" (2005) {Dodge's Dad (#4.27)}  [Bartender]  <18>
+
+Reynolds, Andrew (I)	American Wasteland (2005) (VG)  (voice)  [Himself]  <19>
+			Andrew Reynolds: Deliverance (2013)  [Actor]
+			Canvas: The Skateboarding Documentary (1998)  [Himself]  <7>
+			Cop & ½ (1993)  [Skateboard Kid]  <39>
+			Feedback (1999) (V)
+			Maloof Money Cup (2008) (TV)  [Himself]
+			Shadows (2000)  [Joshua]  <1>
+			Skate 3 (2010) (VG)
+			The End (2000/I)  [Himself]
+			The Globe World Cup Skateboarding (2004) (TV)  [Himself]
+			Tony Hawk Secret Skate Park Tour 3 (2007)  [Himself]
+			Tony Hawk's Pro Skater (1999) (VG)  [Himself]  <7>
+			Tony Hawk's Pro Skater 2 (2000) (VG)  [Himself]  <17>
+			Tony Hawk's Pro Skater 3 (2001) (VG)  [Himself]  <10>
+			Tony Hawk's Pro Skater 4 (2002) (VG)  [Himself]  <21>
+			Tony Hawk's Pro Skater 5 (2015) (VG)  [Himself]
+			Tony Hawk's Underground (2003) (VG)  [Himself]  <26>
+			Transmission 7 (1999) (V)  [Himself]
+			"Fuse Celebrity Playlist" (2006) {Mike Vallely (#1.12)}  [Himself - Host]
+			"Fuse Celebrity Playlist" (2006) {Tony Hawk's Project 8 Pro Tour (#1.14)}  [Himself - Host]
+			"Hammer Hall of Fame" (2014)  [Andrew Reynolds]
+
+Rogers, Raf		Adventures in Babysitting (2016) (TV)  [Pastry Chef]
+			Apartment 321 (2006)  (as Rafael Pellerin)  [Adam]
+			B-Line (2010)  (as Rafael Pellerin)  [Raf]  <1>
+			Exposed (2015) (TV)  [Apple Guy]
+			Fake Coke Ad (2014)  [Unscrupulous Soda Connoisseur]  <1>
+			Fifty Shades of Grace (2014)  [Conservative Guy]
+			Finding a Family (2011) (TV)  (as Rafael Pellerin)  [Carlos]  <9>
+			Girlfriend Experience (2008)  (as Rafael Pellerin)  [Guy in Bar]  <15>
+			Love, Anteros (2009)  (as Rafael Pellerin)  [Alex]  <2>
+			Marilyn (2011)  [Pirate Waiter]  <4>
+			New Parents (2013)  [Husband]  <2>
+			Owned (2006)  (as Rafael Pellerin)  [Frostbyte]  <1>
+			Phallatography (2015) (V)  [Client]
+			Skate 3 (2010) (VG)  (voice)  [Teammates/Additional Voices]  <6>
+			The A-Team (2010)  (as Rafael Pellerin)  [Soccer Kid]  <66>
+			The Great Retro-Chic Revival (2005)  (as Rafael Pellerin)  [White Jacket Drone]
+			Zodiac: Signs of the Apocalypse (2014) (TV)  [Joel]  <11>
+			"Adventures of the Hunky Pipe-Fitter" (2011)  (as Rafael Pellerin)  [Howard]  <5>
+			"Arrow" (2012) {Lost Souls (#4.6)}  [Hive Scientist]  <17>
+			"Continuum" (2012/I) {Second Listen (#2.8)}  [Bickle]  <22>
+			"For Your Security" (2008) {Hired (#1.1)}  (as Rafael Pellerin)  [Nerd]  <4>
+			"Fringe" (2008) {Amber 31422 (#3.5)}  (as Rafael Pellerin)  [Nurse Maude]  <20>
+			"iZombie" (2015) {Salivation Army (#2.19)}  [Vlad]  <18>
+			"Killer Instinct" (2005) {13 Going on 30 (#1.3)}  (as Rafael Pellerin)  [Midway Worker]
+			"Mech-X4" (2016) {(#1.4)}  [Employee]
+			"Once Upon a Time" (2011) {Smash the Mirror: Part 1 (#4.8)}  [Arendelle Servant]  <18>
+			"Rise 'n Shine Og" (2009) {Locked Out (#1.1)}  (as Rafael Pellerin)  [Clerk]  <5>
+			"Sanctuary" (2008) {Sleepers (#2.10)}  (as Rafael Pellerin)  [Geoff]  <11>
+			"Smallville" (2001) {Subterranean (#6.9)}  (as Rafael Pellerin)  [Francisco]  <12>
+			"Supernatural" (2005) {Don't Call Me Shurley (#11.20)}  [Jack]  <10>
+			"The Dead Zone" (2002) {Cycle of Violence (#3.9)}  (as Rafael Pellerin)  [Colin Talavera]  <17>
+
+Saenz, Ralph		Dude! Where's My Music? (????)  [Michael Starr]
+			Rock Star (2001)  [Auditioning Singer]  <38>
+			Skate 3 (2010) (VG)  [Michael Starr]
+			Steel Panther: The British Invasion (2012) (V)  [Michael Starr]
+			Sunset Strip (2012)  [Himself]
+			The Bliss (2006)  [Himself]
+			The Feeling Nuts Comedy Night (2014) (TV)  [Michael Starr]
+			The Steel Panther Test (2010) (V)  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {(#14.10)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {(#14.11)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {(#14.12)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {(#14.13)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {Performance Show: Week Eight (#14.14)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {Performance Show: Week Five (#14.8)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {Results Show: Week Five (#14.9)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {Results Show: Week Four (#14.7)}  [Michael Starr]
+			"Dancing with the Stars" (2005/I) {Results Show: Week Three (#14.5)}  [Michael Starr]
+			"Fantasy Factory" (2009) {(#3.13)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {(#4.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Bangin' on Fools (#1.5)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Best of and Behind the Scenes (#1.11)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Best of Bonus and Behind the Scenes (#7.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Best of, Bonus and Behind the Scenes (#2.5)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Best of: Bonus and Behind the Scenes (#3.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Big Black's BBW Round Up (#6.6)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Big Black's Dump Truck (#5.11)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Bor Kedryd (#6.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Born a Lion (#6.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Butt Brothers (#6.3)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Cheese Ballers! (#3.3)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Clip Show (#4.5)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Cole Hernandez (#1.10)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Dirty Man-Horse (#2.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Dodging Devil Donkeys (#4.4)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Dusty Monkey (#1.12)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Dyrdek Day (#5.10)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Extreme Timmy (#1.3)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Fantasy Factory's Sketchiest Moments (#3.5)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Get with Your Power Animal (#1.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Ginger Lion (#4.6)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Hawaiian Manventure (#3.10)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {He's Just a Little Mini-Pig (#3.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {I'm an Alien (#5.12)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {I'm an Awkward Enabler! (#3.8)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {I'm Livin' It (#5.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {It's Barry... Barry Bright (#3.4)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Jingle Z (#3.12)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Joe C. and the Magic Goatee (#4.8)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Kid Lightning (#4.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Lights Out (#2.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Live Your Brand (#3.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Local Celebrity Almost Dies! (#2.4)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Making Moves (#2.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Motelier (#1.4)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Natural Born Gymkhana-er (#2.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {No Mandals (#1.9)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Phoenix of Love (#4.10)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Premiere (#7.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Project Man Dime (#4.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Save Patty (#3.6)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Shark Sugar (#1.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Shoe Trees (#6.4)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Snack Off (#6.7)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Super Blob (#1.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Super Sonic Rob (#5.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {The Berrics vs. Fantasy Factory (#2.8)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {The Best of Everything We've Ever Done (#6.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {The Bleeding Frogs (#4.3)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {The Dyrdek Family Vacation (#2.6)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {This Is a Skateboard Car (#3.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {This Is Not Mom Certified (#1.6)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Trust Your Pilot, Respect Your Monkey (#2.3)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Ultimate Funcle (#6.5)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Unseen Footage Show (#1.8)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Uploaded (#6.8)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {We're in the Burrito Game! (#5.2)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Welcome, Big Black (#4.1)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {Who Is Rob Dyrdek? (#3.0)}  (original music by)  [Michael Starr]
+			"Fantasy Factory" (2009) {WWII...1972 (#3.11)}  (original music by)  [Michael Starr]
+			"FMA Weekly" (2011) {Episode 2 (#3.2)}  [Michael Starr]
+			"Playboy's Beach House" (2010) {(#1.1)}  (as Michael Starr)  [Himself - Lead Singer, Steel Panther]
+
+
