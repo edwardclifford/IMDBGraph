@@ -18,8 +18,8 @@ public class MovieNode implements Node {
 
     @Override
     public boolean equals (Object o) {
-        final MovieNode other = (MovieNode) o;
-        return _name == other._name && _neighbors.equals(other._neighbors);
+        final Node other = (Node) o;
+        return _name == other.getName(); 
     }
 
     @Override 

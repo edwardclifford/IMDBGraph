@@ -44,6 +44,7 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 	private boolean bfs(Node s, Node t) {
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
+        _graphDist = new HashMap<Node, Integer>();
 
         System.out.println(s);
         System.out.println(t);
@@ -71,11 +72,14 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 				if(!(_graphDist.containsKey(neighborNode))) {
 					//set value to count
 					_graphDist.put(neighborNode, _graphDist.get(temp) + 1);
-
+                    System.out.println("Current neighbor node" + neighborNode.getName());
+                    
 					queue.add(neighborNode);	
 
 					//if the final node is found
 					if(neighborNode.equals(t)) {
+                        System.out.println("Target node match: " + t.getName());
+                        System.out.println("Neighbor node match: " + neighborNode.getName());
 						finalFound = true;
 						return finalFound;
 					}

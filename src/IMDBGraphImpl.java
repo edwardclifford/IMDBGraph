@@ -68,7 +68,7 @@ public class IMDBGraphImpl implements IMDBGraph{
         while (scanner.hasNextLine()) {
             actorName = scanner.next();
             List<String> titleList = new LinkedList<String>();
-            
+             
             while (true) {
                 //Check that file continues
                 if (scanner.hasNextLine()) {
@@ -87,7 +87,7 @@ public class IMDBGraphImpl implements IMDBGraph{
                 title = title.trim();
 
                 //Only add video movies to list
-                if (!(entry.contains("(TV)") || entry.contains("(VG)") || title.charAt(0) == '\"')) {
+                if (!(entry.contains("(TV)") || title.charAt(0) == '\"')) {
                     titleList.add(title);
                 }
             }
