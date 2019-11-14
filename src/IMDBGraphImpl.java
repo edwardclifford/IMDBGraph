@@ -175,9 +175,9 @@ public class IMDBGraphImpl implements IMDBGraph{
     public static void main (String[] args) {
         try {
             //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actors_test.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/src/actresses_test.list");
-            IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses.list");
+            //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses.list");
             //Testing with 10,000 lines files
-            //IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors_first_10000_lines.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses_first_10000_lines.list");
+            IMDBGraph graph = new IMDBGraphImpl("/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actors_first_10000_lines.list", "/home/ted/Desktop/B_Term/CS/IMDBGraph/data/actresses_first_10000_lines.list");
         }
         catch (IOException e) {
             e.printStackTrace();
