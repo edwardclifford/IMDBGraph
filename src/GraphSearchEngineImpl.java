@@ -28,7 +28,7 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		if (!(bfs(s, t))) {
 			return null;
 		}
-		List finalList = searchBackward(s, t);
+		List<Node> finalList = searchBackward(s, t);
 		Collections.reverse(finalList);
 		return finalList;
 	}

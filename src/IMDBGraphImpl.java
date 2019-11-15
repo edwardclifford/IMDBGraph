@@ -14,41 +14,33 @@ public class IMDBGraphImpl implements IMDBGraph{
      */
     public IMDBGraphImpl (String actorPath, String actressPath) throws IOException {
         
-        File actorList = new File(actorPath);
-        File actressList = new File(actressPath);
+        final File actorList = new File(actorPath);
+        final File actressList = new File(actressPath);
 
         try {
-            buildNodes(actorList);
-            buildNodes(actressList);
+            parseDatabase(actorList);
+            parseDatabase(actressList);
         }
         catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 
+        System.out.println("Adding nodes to sets...");
         //Update sets to include both actresses and actors
         _movieSet = new HashSet<MovieNode>(_movieMap.values());
         _actorSet = new HashSet<ActorNode>(_actorMap.values());
-        /*
-        for (MovieNode movie : _movieMap.values()) {
-            System.out.println(movie._name);
-            _movieSet.add(movie);
-        }
-        System.out.println("Got here");
+        System.out.println("Done.");
         
-        for (ActorNode actor : _actorMap.values()) {
-            System.out.println(actor._name);
-            _actorSet.add(actor);
-        }
-        */
     }
     
     /**
      * Parses the IMDB, adding each actor and movies to the graph
      * @param list the IMDB file
      */
-    private void buildNodes (File list) throws FileNotFoundException {
-        
-        Scanner scanner = new Scanner(list, "ISO-8859-1");
+    private void parseDatabase (File database) throws FileNotFoundException {
+        final long startTime = System.currentTimeMillis(); //V
+
+        Scanner scanner = new Scanner(database, "ISO-8859-1");
 
         //Jump to beggining of names
         while (scanner.hasNext()) {
@@ -59,16 +51,20 @@ public class IMDBGraphImpl implements IMDBGraph{
             }
         }
 
-        System.out.println("Reading database...");
         scanner.useDelimiter("\t");
         String actorName;
         String entry; 
         
+        System.out.println("Reading database..."); //V
+        int actorCounter = 0; //V
+        int movieCounter = 0; //V
+
         //Loop through each actor
         while (scanner.hasNextLine()) {
             actorName = scanner.next();
             List<String> titleList = new LinkedList<String>();
-             
+
+            //Loop through each IMDB entry under an actor
             while (true) {
                 //Check that file continues
                 if (scanner.hasNextLine()) {
@@ -83,35 +79,31 @@ public class IMDBGraphImpl implements IMDBGraph{
                     break;
                 }
 
+                //Create title of movie that includes the year and removes tabs
                 String title = entry.substring(0, entry.indexOf(")", entry.indexOf("(" + 4)) + 1);
                 title = title.trim();
 
                 //Only add video movies to list
                 if (!(entry.contains("(TV)") || title.charAt(0) == '\"')) {
                     titleList.add(title);
+                    movieCounter++; //V
                 }
+                
             }
-            
-            if (titleList.size() > 0) {
-                _actorMap.put(actorName, new ActorNode(actorName)); 
-            } 
-
-            //Build graph nodes for each actor/movie
-            for (String movie : titleList) {
-                //Add movie mapping if one does not exist
-                if (!(_movieMap.containsKey(movie))) {
-                    _movieMap.put(movie, new MovieNode(movie));
-                }
-
-                //Add movie to actor's neighbors
-                _actorMap.get(actorName)._neighbors.add(_movieMap.get(movie));
-
-                //Add actor to the movie's neighbors
-                _movieMap.get(movie)._neighbors.add(_actorMap.get(actorName));
+            if (titleList.size() > 0) { //V
+                    actorCounter++;
             }
+            addToGraph(actorName, titleList);
         }
 
-        System.out.println("Data read.");
+        final long endTime = System.currentTimeMillis(); //V
+        System.out.println("Finished."); //V
+        System.out.println("Parsed " + actorCounter + " actors."); //V
+        System.out.println("Parsed " + movieCounter + " movies."); //V
+
+        System.out.println("Execution time: " + (endTime - startTime) + "ms."); //V
+        System.out.println("------------------------"); //V
+
     }
 
     /**
@@ -119,11 +111,13 @@ public class IMDBGraphImpl implements IMDBGraph{
      * @param actor the actor
      * @param movies a list of movies
      */
-    /*
-    private void addToGraph (String actorName, List movieList) {
+    private void addToGraph (String actorName, List<String> movieList) {
 
-        if (movie.size() > 0) {
-            _actorMap.put(actorName, new ActorNode(actorName)); 
+        //Create new actor if one doesn't already exist
+        if (movieList.size() > 0) {
+            if (!(_actorMap.containsKey(actorName))) {
+                _actorMap.put(actorName, new ActorNode(actorName)); 
+            }
         } 
 
         //Build graph nodes for each actor/movie
@@ -134,12 +128,12 @@ public class IMDBGraphImpl implements IMDBGraph{
             }
 
             //Add movie to actor's neighbors
-            _actorMap.get(actorName)._neighbors.add(_movieMap.get(movie));
+            _actorMap.get(actorName)._neighbors.add(_movieMap.get(movieTitle));
 
             //Add actor to the movie's neighbors
-            _movieMap.get(movie)._neighbors.add(_actorMap.get(actorName));
+            _movieMap.get(movieTitle)._neighbors.add(_actorMap.get(actorName));
+        }
     }
-    */
 
     /**
      * Returns a collection of the actors in the graph
