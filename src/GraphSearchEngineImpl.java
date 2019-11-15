@@ -124,20 +124,22 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 				Node neighborNode = i.next();
                 System.out.println("HASH of TEMP: " + _graphDist.get(temp));
                 System.out.println("HASH of TEMP: " + _graphDist.get(neighborNode));
-				if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
-					System.out.print("got a path!");
-					finalPath.add(neighborNode);
-					
-					queue.add(neighborNode);	
+                if (_graphDist.get(neighborNode) != null) {
+                	if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
+                		System.out.print("got a path!");
+                		finalPath.add(neighborNode);
 
-					//if the final node is found
-					if(neighborNode.equals(s)) {
-						System.out.print("FINAL PATH!");
+                		queue.add(neighborNode);	
 
-						return finalPath;
-					}
-					break;
-				}
+                		//if the final node is found
+                		if(neighborNode.equals(s)) {
+                			System.out.print("FINAL PATH!");
+
+                			return finalPath;
+                		}
+                		break;
+                	}
+                }
 			}			
 		}
 		//if the final node path is not found
