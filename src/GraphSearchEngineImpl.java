@@ -1,3 +1,4 @@
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -24,16 +25,12 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 	public List<Node> findShortestPath (Node s, Node t) {
 
 		//finds if there is a path to the node
-        System.out.println(s.getName());
-        System.out.println(t.getName());
-
 		if (!(bfs(s, t))) {
 			return null;
 		}
-
-		//only call searchBackward if there is a path
-		System.out.println("checking list!!:  " + searchBackward(s, t));
-		return searchBackward(s, t);
+		List finalList = searchBackward(s, t);
+		Collections.reverse(finalList);
+		return finalList;
 	}
 
 	/**
