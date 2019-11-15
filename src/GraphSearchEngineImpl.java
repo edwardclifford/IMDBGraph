@@ -99,20 +99,14 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		//Shortest path list
 		LinkedList<Node> finalPath = new LinkedList<Node>();
 		
-		System.out.println("original finalPath: "+ finalPath);
-		
 		//adding target node to queue and setting value to 0
 		queue.add(t);
 		
 		//iterate through the queue
 		while (queue.size() != 0) {
-			
-			System.out.println("FIRST TIME WE REACH A NEW NODE");
 
 			//dequeue node
 			Node temp = queue.poll();
-			finalPath.add(temp);
-			System.out.println("Add a new node to final path: "+ finalPath);
 
 			//creating an iterator to look through the nodes
 			Iterator<? extends Node> i = temp.getNeighbors().iterator();
@@ -122,14 +116,12 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 				if (_graphDist.get(neighborNode) != null) {
 					if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
 						finalPath.add(neighborNode);
-						System.out.println("naighbore nodes finalPath: "+ finalPath);
 
 						queue.add(neighborNode);	
 
 						//if the final node is found
 						if(neighborNode.equals(s)) {
 							System.out.println("You found the final path, congratulations!!!");
-							System.out.println("look at final path: "+ finalPath);
 							return finalPath;
 						}
 						break;
