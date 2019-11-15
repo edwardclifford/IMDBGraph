@@ -101,6 +101,7 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		
 		//adding target node to queue and setting value to 0
 		queue.add(t);
+		finalPath.add(t);
 		
 		//iterate through the queue
 		while (queue.size() != 0) {
