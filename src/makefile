@@ -30,10 +30,10 @@ default: classes
 classes: $(CLASSES:.java=.class)
 
 run: classes 
-	$(JVM) $(MAIN) 
+	$(JVM) -Xms4096m -Xmx4096m $(MAIN) 
 
 gfx: classes 
-	$(JVM) $(GFX)
+	$(JVM) -Xms4096m -Xmx4096m $(GFX)
 
 test: classes 
 	$(JVM) org.junit.runner.JUnitCore $(TEST) 
