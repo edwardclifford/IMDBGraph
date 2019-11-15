@@ -1,5 +1,6 @@
 /*
  * Creates a graph of actors and movies from two databases.
+ * Run with at least 4Gb memory allocated to the JVM.
  * Devs: Ted Clifford and Marie Tessier
  * (C) 11.15.2019
  */
