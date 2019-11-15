@@ -32,6 +32,7 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		}
 
 		//only call searchBackward if there is a path
+		System.out.println("checking list!!:  " + searchBackward(s, t));
 		return searchBackward(s, t);
 	}
 
@@ -45,9 +46,6 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
         _graphDist = new HashMap<Node, Integer>();
-
-        System.out.println(s);
-        System.out.println(t);
          
 		//counter for values
 		Integer value = 0;
@@ -72,16 +70,11 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 				if(!(_graphDist.containsKey(neighborNode))) {
 					//set value to count
 					_graphDist.put(neighborNode, _graphDist.get(temp) + 1);
-                    System.out.println("Current neighbor node" + neighborNode.getName());
                     
 					queue.add(neighborNode);	
 
 					//if the final node is found
 					if(neighborNode.equals(t)) {
-                        System.out.println("Target node match: " + t.getName());
-                        System.out.println("Neighbor node match: " + neighborNode.getName());
-                        System.out.println("HASH: " + _graphDist.containsKey(neighborNode));
-
 						finalFound = true;
 						return finalFound;
 					}
@@ -100,7 +93,6 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 	 * @return returns a list of all the nodes that are in the shortest path
 	 */
 	private List<Node> searchBackward(Node s, Node t) {
-		// TODO Auto-generated method stub
 		//creating the queue 
 		Queue<Node> queue = new LinkedList<Node>();
 		
@@ -122,24 +114,21 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 			while (i.hasNext()) {
 				//dequeue
 				Node neighborNode = i.next();
-                System.out.println("HASH of TEMP: " + _graphDist.get(temp));
-                System.out.println("HASH of TEMP: " + _graphDist.get(neighborNode));
-                if (_graphDist.get(neighborNode) != null) {
-                	if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
-                			System.out.println("got a path!");
-                			finalPath.add(neighborNode);
+				if (_graphDist.get(neighborNode) != null) {
+					if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
+						finalPath.add(neighborNode);
 
-                			queue.add(neighborNode);	
+						queue.add(neighborNode);	
 
-                			//if the final node is found
-                			if(neighborNode.equals(s)) {
-                				System.out.println("FINAL PATH!");
+						//if the final node is found
+						if(neighborNode.equals(s)) {
+							System.out.println("You found the final path, congradulations!!!");
 
-                				return finalPath;
-                			}
-                			break;
-                		
-                	}
+							return finalPath;
+						}
+						break;
+
+					}
                 }
 			}			
 		}
