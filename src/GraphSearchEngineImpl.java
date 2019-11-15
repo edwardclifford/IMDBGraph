@@ -80,6 +80,8 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 					if(neighborNode.equals(t)) {
                         System.out.println("Target node match: " + t.getName());
                         System.out.println("Neighbor node match: " + neighborNode.getName());
+                        System.out.println("HASH: " + _graphDist.containsKey(neighborNode));
+
 						finalFound = true;
 						return finalFound;
 					}
@@ -120,15 +122,18 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 			while (i.hasNext()) {
 				//dequeue
 				Node neighborNode = i.next();
-				
+                System.out.println("HASH of TEMP: " + _graphDist.get(temp));
+                System.out.println("HASH of TEMP: " + _graphDist.get(neighborNode));
 				if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
-					
+					System.out.print("got a path!");
 					finalPath.add(neighborNode);
 					
 					queue.add(neighborNode);	
 
 					//if the final node is found
 					if(neighborNode.equals(s)) {
+						System.out.print("FINAL PATH!");
+
 						return finalPath;
 					}
 					break;
