@@ -1,15 +1,16 @@
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 /*
  * Marie Tessier and Edward Clifford 
  * 
  * This class uses Breath First Search Algorithm the search through a graph 
  * and find the shortest path.
  */
+
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
 
 public class GraphSearchEngineImpl implements GraphSearchEngine {
 
@@ -56,14 +57,14 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		while (queue.size() != 0) {
 
 			//dequeue node
-			Node temp = queue.poll();
+			final Node temp = queue.poll();
 
 			//creating an iterator to look through the nodes
 			Iterator<? extends Node> i = temp.getNeighbors().iterator();
 			while (i.hasNext()) {
 
 				//dequeue
-				Node neighborNode = i.next();
+				final Node neighborNode = i.next();
 				if(!(_graphDist.containsKey(neighborNode))) {
 					//set value to count
 					_graphDist.put(neighborNode, _graphDist.get(temp) + 1);
@@ -104,13 +105,13 @@ public class GraphSearchEngineImpl implements GraphSearchEngine {
 		while (queue.size() != 0) {
 
 			//dequeue node
-			Node temp = queue.poll();
+			final Node temp = queue.poll();
 
 			//creating an iterator to look through the nodes
 			Iterator<? extends Node> i = temp.getNeighbors().iterator();
 			while (i.hasNext()) {
 				//dequeue
-				Node neighborNode = i.next();
+				final Node neighborNode = i.next();
 				if (_graphDist.get(neighborNode) != null) {
 					if(_graphDist.get(temp) > _graphDist.get(neighborNode)) {
 						finalPath.add(neighborNode);

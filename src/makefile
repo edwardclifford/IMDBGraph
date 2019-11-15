@@ -15,8 +15,6 @@ CLASSES = \
 		  IMDBGraph.java \
 		  IMDBGraphImpl.java \
 		  Node.java \
-		  ActorNode.java \
-		  MovieNode.java \
 
 
 MAIN = IMDBGraphImpl 
